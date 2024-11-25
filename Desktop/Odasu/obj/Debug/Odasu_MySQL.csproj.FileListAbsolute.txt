@@ -1,0 +1,768 @@
+C:\Users\paulo\source\repos\Odasu_MySQL\bin\Debug\Odasu_MySQL.exe.config
+C:\Users\paulo\source\repos\Odasu_MySQL\bin\Debug\Odasu_MySQL.exe
+C:\Users\paulo\source\repos\Odasu_MySQL\bin\Debug\Odasu_MySQL.pdb
+C:\Users\paulo\source\repos\Odasu_MySQL\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\paulo\source\repos\Odasu_MySQL\bin\Debug\Google.Protobuf.dll
+C:\Users\paulo\source\repos\Odasu_MySQL\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\paulo\source\repos\Odasu_MySQL\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\paulo\source\repos\Odasu_MySQL\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\paulo\source\repos\Odasu_MySQL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\paulo\source\repos\Odasu_MySQL\bin\Debug\MySql.Data.dll
+C:\Users\paulo\source\repos\Odasu_MySQL\bin\Debug\System.Buffers.dll
+C:\Users\paulo\source\repos\Odasu_MySQL\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\paulo\source\repos\Odasu_MySQL\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\paulo\source\repos\Odasu_MySQL\bin\Debug\System.IO.Pipelines.dll
+C:\Users\paulo\source\repos\Odasu_MySQL\bin\Debug\System.Memory.dll
+C:\Users\paulo\source\repos\Odasu_MySQL\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\paulo\source\repos\Odasu_MySQL\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\paulo\source\repos\Odasu_MySQL\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\paulo\source\repos\Odasu_MySQL\bin\Debug\ZstdSharp.dll
+C:\Users\paulo\source\repos\Odasu_MySQL\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\paulo\source\repos\Odasu_MySQL\bin\Debug\Google.Protobuf.pdb
+C:\Users\paulo\source\repos\Odasu_MySQL\bin\Debug\Google.Protobuf.xml
+C:\Users\paulo\source\repos\Odasu_MySQL\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\paulo\source\repos\Odasu_MySQL\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\paulo\source\repos\Odasu_MySQL\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\paulo\source\repos\Odasu_MySQL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\paulo\source\repos\Odasu_MySQL\bin\Debug\MySql.Data.xml
+C:\Users\paulo\source\repos\Odasu_MySQL\bin\Debug\System.Buffers.xml
+C:\Users\paulo\source\repos\Odasu_MySQL\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\paulo\source\repos\Odasu_MySQL\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\paulo\source\repos\Odasu_MySQL\bin\Debug\System.IO.Pipelines.xml
+C:\Users\paulo\source\repos\Odasu_MySQL\bin\Debug\System.Memory.xml
+C:\Users\paulo\source\repos\Odasu_MySQL\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\paulo\source\repos\Odasu_MySQL\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\paulo\source\repos\Odasu_MySQL\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\paulo\source\repos\Odasu_MySQL\obj\Debug\Odasu_MySQL.csproj.AssemblyReference.cache
+C:\Users\paulo\source\repos\Odasu_MySQL\obj\Debug\Odasu_MySQL.Properties.Resources.resources
+C:\Users\paulo\source\repos\Odasu_MySQL\obj\Debug\Odasu_MySQL.csproj.GenerateResource.cache
+C:\Users\paulo\source\repos\Odasu_MySQL\obj\Debug\Odasu_MySQL.csproj.CoreCompileInputs.cache
+C:\Users\paulo\source\repos\Odasu_MySQL\obj\Debug\Odasu_My.AB1C139F.Up2Date
+C:\Users\paulo\source\repos\Odasu_MySQL\obj\Debug\Odasu_MySQL.exe
+C:\Users\paulo\source\repos\Odasu_MySQL\obj\Debug\Odasu_MySQL.pdb
+C:\Users\paulo\source\repos\Odasu_MySQL\obj\Debug\Odasu_MySQL.Cadastro.resources
+C:\Users\paulo\source\repos\Odasu_MySQL\obj\Debug\Odasu_MySQL.Principal.resources
+C:\Users\paulo\source\repos\Odasu_MySQL\obj\Debug\Odasu_MySQL.Forms.ESTOQUE.resources
+C:\Users\paulo\source\repos\Odasu_MySQL\obj\Debug\Odasu_MySQL.Forms.CADASTRO.resources
+C:\Users\paulo\source\repos\Odasu_MySQL\obj\Debug\Odasu_MySQL.Forms.CONFIGURAÇÕES.resources
+C:\Users\paulo\source\repos\Odasu_MySQL\obj\Debug\Odasu_MySQL.Forms.FATURAMENTO.resources
+C:\Users\paulo\source\repos\Odasu_MySQL\obj\Debug\Odasu_MySQL.Forms.PEDIDOS.resources
+C:\Users\paulo\source\repos\Odasu_MySQL\obj\Debug\Odasu_MySQL.Login.resources
+C:\Users\paulo\source\repos\Odasu_MySQL\bin\Debug\itext.barcodes.dll
+C:\Users\paulo\source\repos\Odasu_MySQL\bin\Debug\itext.bouncy-castle-connector.dll
+C:\Users\paulo\source\repos\Odasu_MySQL\bin\Debug\itext.commons.dll
+C:\Users\paulo\source\repos\Odasu_MySQL\bin\Debug\itext.forms.dll
+C:\Users\paulo\source\repos\Odasu_MySQL\bin\Debug\itext.io.dll
+C:\Users\paulo\source\repos\Odasu_MySQL\bin\Debug\itext.kernel.dll
+C:\Users\paulo\source\repos\Odasu_MySQL\bin\Debug\itext.layout.dll
+C:\Users\paulo\source\repos\Odasu_MySQL\bin\Debug\itext.pdfa.dll
+C:\Users\paulo\source\repos\Odasu_MySQL\bin\Debug\itext.pdfua.dll
+C:\Users\paulo\source\repos\Odasu_MySQL\bin\Debug\itext.sign.dll
+C:\Users\paulo\source\repos\Odasu_MySQL\bin\Debug\itext.styledxmlparser.dll
+C:\Users\paulo\source\repos\Odasu_MySQL\bin\Debug\itext.svg.dll
+C:\Users\paulo\source\repos\Odasu_MySQL\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\paulo\source\repos\Odasu_MySQL\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\paulo\source\repos\Odasu_MySQL\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\paulo\source\repos\Odasu_MySQL\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\paulo\source\repos\Odasu_MySQL\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\paulo\source\repos\Odasu_MySQL\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\paulo\source\repos\Odasu_MySQL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\paulo\source\repos\Odasu_MySQL\bin\Debug\System.Collections.Immutable.dll
+C:\Users\paulo\source\repos\Odasu_MySQL\bin\Debug\System.Reflection.Metadata.dll
+C:\Users\paulo\source\repos\Odasu_MySQL\bin\Debug\System.ValueTuple.dll
+C:\Users\paulo\source\repos\Odasu_MySQL\bin\Debug\itext.barcodes.xml
+C:\Users\paulo\source\repos\Odasu_MySQL\bin\Debug\itext.bouncy-castle-connector.xml
+C:\Users\paulo\source\repos\Odasu_MySQL\bin\Debug\itext.commons.xml
+C:\Users\paulo\source\repos\Odasu_MySQL\bin\Debug\itext.forms.xml
+C:\Users\paulo\source\repos\Odasu_MySQL\bin\Debug\itext.io.xml
+C:\Users\paulo\source\repos\Odasu_MySQL\bin\Debug\itext.kernel.xml
+C:\Users\paulo\source\repos\Odasu_MySQL\bin\Debug\itext.layout.xml
+C:\Users\paulo\source\repos\Odasu_MySQL\bin\Debug\itext.pdfa.xml
+C:\Users\paulo\source\repos\Odasu_MySQL\bin\Debug\itext.pdfua.xml
+C:\Users\paulo\source\repos\Odasu_MySQL\bin\Debug\itext.sign.xml
+C:\Users\paulo\source\repos\Odasu_MySQL\bin\Debug\itext.styledxmlparser.xml
+C:\Users\paulo\source\repos\Odasu_MySQL\bin\Debug\itext.svg.xml
+C:\Users\paulo\source\repos\Odasu_MySQL\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\paulo\source\repos\Odasu_MySQL\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\paulo\source\repos\Odasu_MySQL\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\paulo\source\repos\Odasu_MySQL\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\paulo\source\repos\Odasu_MySQL\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\paulo\source\repos\Odasu_MySQL\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\paulo\source\repos\Odasu_MySQL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\paulo\source\repos\Odasu_MySQL\bin\Debug\System.Collections.Immutable.xml
+C:\Users\paulo\source\repos\Odasu_MySQL\bin\Debug\System.Reflection.Metadata.xml
+C:\Users\paulo\source\repos\Odasu_MySQL\bin\Debug\System.ValueTuple.xml
+C:\Users\paulo\source\repos\Odasu_MySQL\bin\Debug\itextsharp.dll
+C:\Users\paulo\source\repos\Odasu_MySQL\bin\Debug\itextsharp.xml
+C:\Users\Samsung\OneDrive\Área de Trabalho\09.11.2024-20241114T000744Z-001\09.11.2024\Odasu_MySQL-09-11-2024\Odasu_MySQL\bin\Debug\Odasu_MySQL.exe.config
+C:\Users\Samsung\OneDrive\Área de Trabalho\09.11.2024-20241114T000744Z-001\09.11.2024\Odasu_MySQL-09-11-2024\Odasu_MySQL\bin\Debug\Odasu_MySQL.exe
+C:\Users\Samsung\OneDrive\Área de Trabalho\09.11.2024-20241114T000744Z-001\09.11.2024\Odasu_MySQL-09-11-2024\Odasu_MySQL\bin\Debug\Odasu_MySQL.pdb
+C:\Users\Samsung\OneDrive\Área de Trabalho\09.11.2024-20241114T000744Z-001\09.11.2024\Odasu_MySQL-09-11-2024\Odasu_MySQL\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\Samsung\OneDrive\Área de Trabalho\09.11.2024-20241114T000744Z-001\09.11.2024\Odasu_MySQL-09-11-2024\Odasu_MySQL\bin\Debug\Google.Protobuf.dll
+C:\Users\Samsung\OneDrive\Área de Trabalho\09.11.2024-20241114T000744Z-001\09.11.2024\Odasu_MySQL-09-11-2024\Odasu_MySQL\bin\Debug\itext.barcodes.dll
+C:\Users\Samsung\OneDrive\Área de Trabalho\09.11.2024-20241114T000744Z-001\09.11.2024\Odasu_MySQL-09-11-2024\Odasu_MySQL\bin\Debug\itext.bouncy-castle-connector.dll
+C:\Users\Samsung\OneDrive\Área de Trabalho\09.11.2024-20241114T000744Z-001\09.11.2024\Odasu_MySQL-09-11-2024\Odasu_MySQL\bin\Debug\itext.commons.dll
+C:\Users\Samsung\OneDrive\Área de Trabalho\09.11.2024-20241114T000744Z-001\09.11.2024\Odasu_MySQL-09-11-2024\Odasu_MySQL\bin\Debug\itext.forms.dll
+C:\Users\Samsung\OneDrive\Área de Trabalho\09.11.2024-20241114T000744Z-001\09.11.2024\Odasu_MySQL-09-11-2024\Odasu_MySQL\bin\Debug\itext.io.dll
+C:\Users\Samsung\OneDrive\Área de Trabalho\09.11.2024-20241114T000744Z-001\09.11.2024\Odasu_MySQL-09-11-2024\Odasu_MySQL\bin\Debug\itext.kernel.dll
+C:\Users\Samsung\OneDrive\Área de Trabalho\09.11.2024-20241114T000744Z-001\09.11.2024\Odasu_MySQL-09-11-2024\Odasu_MySQL\bin\Debug\itext.layout.dll
+C:\Users\Samsung\OneDrive\Área de Trabalho\09.11.2024-20241114T000744Z-001\09.11.2024\Odasu_MySQL-09-11-2024\Odasu_MySQL\bin\Debug\itext.pdfa.dll
+C:\Users\Samsung\OneDrive\Área de Trabalho\09.11.2024-20241114T000744Z-001\09.11.2024\Odasu_MySQL-09-11-2024\Odasu_MySQL\bin\Debug\itext.pdfua.dll
+C:\Users\Samsung\OneDrive\Área de Trabalho\09.11.2024-20241114T000744Z-001\09.11.2024\Odasu_MySQL-09-11-2024\Odasu_MySQL\bin\Debug\itext.sign.dll
+C:\Users\Samsung\OneDrive\Área de Trabalho\09.11.2024-20241114T000744Z-001\09.11.2024\Odasu_MySQL-09-11-2024\Odasu_MySQL\bin\Debug\itext.styledxmlparser.dll
+C:\Users\Samsung\OneDrive\Área de Trabalho\09.11.2024-20241114T000744Z-001\09.11.2024\Odasu_MySQL-09-11-2024\Odasu_MySQL\bin\Debug\itext.svg.dll
+C:\Users\Samsung\OneDrive\Área de Trabalho\09.11.2024-20241114T000744Z-001\09.11.2024\Odasu_MySQL-09-11-2024\Odasu_MySQL\bin\Debug\itextsharp.dll
+C:\Users\Samsung\OneDrive\Área de Trabalho\09.11.2024-20241114T000744Z-001\09.11.2024\Odasu_MySQL-09-11-2024\Odasu_MySQL\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Samsung\OneDrive\Área de Trabalho\09.11.2024-20241114T000744Z-001\09.11.2024\Odasu_MySQL-09-11-2024\Odasu_MySQL\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Samsung\OneDrive\Área de Trabalho\09.11.2024-20241114T000744Z-001\09.11.2024\Odasu_MySQL-09-11-2024\Odasu_MySQL\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Samsung\OneDrive\Área de Trabalho\09.11.2024-20241114T000744Z-001\09.11.2024\Odasu_MySQL-09-11-2024\Odasu_MySQL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Samsung\OneDrive\Área de Trabalho\09.11.2024-20241114T000744Z-001\09.11.2024\Odasu_MySQL-09-11-2024\Odasu_MySQL\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Samsung\OneDrive\Área de Trabalho\09.11.2024-20241114T000744Z-001\09.11.2024\Odasu_MySQL-09-11-2024\Odasu_MySQL\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Samsung\OneDrive\Área de Trabalho\09.11.2024-20241114T000744Z-001\09.11.2024\Odasu_MySQL-09-11-2024\Odasu_MySQL\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Samsung\OneDrive\Área de Trabalho\09.11.2024-20241114T000744Z-001\09.11.2024\Odasu_MySQL-09-11-2024\Odasu_MySQL\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\Samsung\OneDrive\Área de Trabalho\09.11.2024-20241114T000744Z-001\09.11.2024\Odasu_MySQL-09-11-2024\Odasu_MySQL\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\Samsung\OneDrive\Área de Trabalho\09.11.2024-20241114T000744Z-001\09.11.2024\Odasu_MySQL-09-11-2024\Odasu_MySQL\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Samsung\OneDrive\Área de Trabalho\09.11.2024-20241114T000744Z-001\09.11.2024\Odasu_MySQL-09-11-2024\Odasu_MySQL\bin\Debug\MySql.Data.dll
+C:\Users\Samsung\OneDrive\Área de Trabalho\09.11.2024-20241114T000744Z-001\09.11.2024\Odasu_MySQL-09-11-2024\Odasu_MySQL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Samsung\OneDrive\Área de Trabalho\09.11.2024-20241114T000744Z-001\09.11.2024\Odasu_MySQL-09-11-2024\Odasu_MySQL\bin\Debug\System.Buffers.dll
+C:\Users\Samsung\OneDrive\Área de Trabalho\09.11.2024-20241114T000744Z-001\09.11.2024\Odasu_MySQL-09-11-2024\Odasu_MySQL\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Samsung\OneDrive\Área de Trabalho\09.11.2024-20241114T000744Z-001\09.11.2024\Odasu_MySQL-09-11-2024\Odasu_MySQL\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Samsung\OneDrive\Área de Trabalho\09.11.2024-20241114T000744Z-001\09.11.2024\Odasu_MySQL-09-11-2024\Odasu_MySQL\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Samsung\OneDrive\Área de Trabalho\09.11.2024-20241114T000744Z-001\09.11.2024\Odasu_MySQL-09-11-2024\Odasu_MySQL\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Samsung\OneDrive\Área de Trabalho\09.11.2024-20241114T000744Z-001\09.11.2024\Odasu_MySQL-09-11-2024\Odasu_MySQL\bin\Debug\System.Memory.dll
+C:\Users\Samsung\OneDrive\Área de Trabalho\09.11.2024-20241114T000744Z-001\09.11.2024\Odasu_MySQL-09-11-2024\Odasu_MySQL\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Samsung\OneDrive\Área de Trabalho\09.11.2024-20241114T000744Z-001\09.11.2024\Odasu_MySQL-09-11-2024\Odasu_MySQL\bin\Debug\System.Reflection.Metadata.dll
+C:\Users\Samsung\OneDrive\Área de Trabalho\09.11.2024-20241114T000744Z-001\09.11.2024\Odasu_MySQL-09-11-2024\Odasu_MySQL\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Samsung\OneDrive\Área de Trabalho\09.11.2024-20241114T000744Z-001\09.11.2024\Odasu_MySQL-09-11-2024\Odasu_MySQL\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Samsung\OneDrive\Área de Trabalho\09.11.2024-20241114T000744Z-001\09.11.2024\Odasu_MySQL-09-11-2024\Odasu_MySQL\bin\Debug\System.ValueTuple.dll
+C:\Users\Samsung\OneDrive\Área de Trabalho\09.11.2024-20241114T000744Z-001\09.11.2024\Odasu_MySQL-09-11-2024\Odasu_MySQL\bin\Debug\ZstdSharp.dll
+C:\Users\Samsung\OneDrive\Área de Trabalho\09.11.2024-20241114T000744Z-001\09.11.2024\Odasu_MySQL-09-11-2024\Odasu_MySQL\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\Samsung\OneDrive\Área de Trabalho\09.11.2024-20241114T000744Z-001\09.11.2024\Odasu_MySQL-09-11-2024\Odasu_MySQL\bin\Debug\Google.Protobuf.pdb
+C:\Users\Samsung\OneDrive\Área de Trabalho\09.11.2024-20241114T000744Z-001\09.11.2024\Odasu_MySQL-09-11-2024\Odasu_MySQL\bin\Debug\Google.Protobuf.xml
+C:\Users\Samsung\OneDrive\Área de Trabalho\09.11.2024-20241114T000744Z-001\09.11.2024\Odasu_MySQL-09-11-2024\Odasu_MySQL\bin\Debug\itext.barcodes.xml
+C:\Users\Samsung\OneDrive\Área de Trabalho\09.11.2024-20241114T000744Z-001\09.11.2024\Odasu_MySQL-09-11-2024\Odasu_MySQL\bin\Debug\itext.bouncy-castle-connector.xml
+C:\Users\Samsung\OneDrive\Área de Trabalho\09.11.2024-20241114T000744Z-001\09.11.2024\Odasu_MySQL-09-11-2024\Odasu_MySQL\bin\Debug\itext.commons.xml
+C:\Users\Samsung\OneDrive\Área de Trabalho\09.11.2024-20241114T000744Z-001\09.11.2024\Odasu_MySQL-09-11-2024\Odasu_MySQL\bin\Debug\itext.forms.xml
+C:\Users\Samsung\OneDrive\Área de Trabalho\09.11.2024-20241114T000744Z-001\09.11.2024\Odasu_MySQL-09-11-2024\Odasu_MySQL\bin\Debug\itext.io.xml
+C:\Users\Samsung\OneDrive\Área de Trabalho\09.11.2024-20241114T000744Z-001\09.11.2024\Odasu_MySQL-09-11-2024\Odasu_MySQL\bin\Debug\itext.kernel.xml
+C:\Users\Samsung\OneDrive\Área de Trabalho\09.11.2024-20241114T000744Z-001\09.11.2024\Odasu_MySQL-09-11-2024\Odasu_MySQL\bin\Debug\itext.layout.xml
+C:\Users\Samsung\OneDrive\Área de Trabalho\09.11.2024-20241114T000744Z-001\09.11.2024\Odasu_MySQL-09-11-2024\Odasu_MySQL\bin\Debug\itext.pdfa.xml
+C:\Users\Samsung\OneDrive\Área de Trabalho\09.11.2024-20241114T000744Z-001\09.11.2024\Odasu_MySQL-09-11-2024\Odasu_MySQL\bin\Debug\itext.pdfua.xml
+C:\Users\Samsung\OneDrive\Área de Trabalho\09.11.2024-20241114T000744Z-001\09.11.2024\Odasu_MySQL-09-11-2024\Odasu_MySQL\bin\Debug\itext.sign.xml
+C:\Users\Samsung\OneDrive\Área de Trabalho\09.11.2024-20241114T000744Z-001\09.11.2024\Odasu_MySQL-09-11-2024\Odasu_MySQL\bin\Debug\itext.styledxmlparser.xml
+C:\Users\Samsung\OneDrive\Área de Trabalho\09.11.2024-20241114T000744Z-001\09.11.2024\Odasu_MySQL-09-11-2024\Odasu_MySQL\bin\Debug\itext.svg.xml
+C:\Users\Samsung\OneDrive\Área de Trabalho\09.11.2024-20241114T000744Z-001\09.11.2024\Odasu_MySQL-09-11-2024\Odasu_MySQL\bin\Debug\itextsharp.xml
+C:\Users\Samsung\OneDrive\Área de Trabalho\09.11.2024-20241114T000744Z-001\09.11.2024\Odasu_MySQL-09-11-2024\Odasu_MySQL\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Samsung\OneDrive\Área de Trabalho\09.11.2024-20241114T000744Z-001\09.11.2024\Odasu_MySQL-09-11-2024\Odasu_MySQL\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Samsung\OneDrive\Área de Trabalho\09.11.2024-20241114T000744Z-001\09.11.2024\Odasu_MySQL-09-11-2024\Odasu_MySQL\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Samsung\OneDrive\Área de Trabalho\09.11.2024-20241114T000744Z-001\09.11.2024\Odasu_MySQL-09-11-2024\Odasu_MySQL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Samsung\OneDrive\Área de Trabalho\09.11.2024-20241114T000744Z-001\09.11.2024\Odasu_MySQL-09-11-2024\Odasu_MySQL\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Samsung\OneDrive\Área de Trabalho\09.11.2024-20241114T000744Z-001\09.11.2024\Odasu_MySQL-09-11-2024\Odasu_MySQL\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Samsung\OneDrive\Área de Trabalho\09.11.2024-20241114T000744Z-001\09.11.2024\Odasu_MySQL-09-11-2024\Odasu_MySQL\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\Samsung\OneDrive\Área de Trabalho\09.11.2024-20241114T000744Z-001\09.11.2024\Odasu_MySQL-09-11-2024\Odasu_MySQL\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Samsung\OneDrive\Área de Trabalho\09.11.2024-20241114T000744Z-001\09.11.2024\Odasu_MySQL-09-11-2024\Odasu_MySQL\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\Samsung\OneDrive\Área de Trabalho\09.11.2024-20241114T000744Z-001\09.11.2024\Odasu_MySQL-09-11-2024\Odasu_MySQL\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\Samsung\OneDrive\Área de Trabalho\09.11.2024-20241114T000744Z-001\09.11.2024\Odasu_MySQL-09-11-2024\Odasu_MySQL\bin\Debug\MySql.Data.xml
+C:\Users\Samsung\OneDrive\Área de Trabalho\09.11.2024-20241114T000744Z-001\09.11.2024\Odasu_MySQL-09-11-2024\Odasu_MySQL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Samsung\OneDrive\Área de Trabalho\09.11.2024-20241114T000744Z-001\09.11.2024\Odasu_MySQL-09-11-2024\Odasu_MySQL\bin\Debug\System.Buffers.xml
+C:\Users\Samsung\OneDrive\Área de Trabalho\09.11.2024-20241114T000744Z-001\09.11.2024\Odasu_MySQL-09-11-2024\Odasu_MySQL\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Samsung\OneDrive\Área de Trabalho\09.11.2024-20241114T000744Z-001\09.11.2024\Odasu_MySQL-09-11-2024\Odasu_MySQL\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Samsung\OneDrive\Área de Trabalho\09.11.2024-20241114T000744Z-001\09.11.2024\Odasu_MySQL-09-11-2024\Odasu_MySQL\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Samsung\OneDrive\Área de Trabalho\09.11.2024-20241114T000744Z-001\09.11.2024\Odasu_MySQL-09-11-2024\Odasu_MySQL\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Samsung\OneDrive\Área de Trabalho\09.11.2024-20241114T000744Z-001\09.11.2024\Odasu_MySQL-09-11-2024\Odasu_MySQL\bin\Debug\System.Memory.xml
+C:\Users\Samsung\OneDrive\Área de Trabalho\09.11.2024-20241114T000744Z-001\09.11.2024\Odasu_MySQL-09-11-2024\Odasu_MySQL\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Samsung\OneDrive\Área de Trabalho\09.11.2024-20241114T000744Z-001\09.11.2024\Odasu_MySQL-09-11-2024\Odasu_MySQL\bin\Debug\System.Reflection.Metadata.xml
+C:\Users\Samsung\OneDrive\Área de Trabalho\09.11.2024-20241114T000744Z-001\09.11.2024\Odasu_MySQL-09-11-2024\Odasu_MySQL\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Samsung\OneDrive\Área de Trabalho\09.11.2024-20241114T000744Z-001\09.11.2024\Odasu_MySQL-09-11-2024\Odasu_MySQL\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Samsung\OneDrive\Área de Trabalho\09.11.2024-20241114T000744Z-001\09.11.2024\Odasu_MySQL-09-11-2024\Odasu_MySQL\bin\Debug\System.ValueTuple.xml
+C:\Users\Samsung\OneDrive\Área de Trabalho\09.11.2024-20241114T000744Z-001\09.11.2024\Odasu_MySQL-09-11-2024\Odasu_MySQL\obj\Debug\Odasu_MySQL.csproj.AssemblyReference.cache
+C:\Users\Samsung\OneDrive\Área de Trabalho\09.11.2024-20241114T000744Z-001\09.11.2024\Odasu_MySQL-09-11-2024\Odasu_MySQL\obj\Debug\Odasu_MySQL.Cadastro.resources
+C:\Users\Samsung\OneDrive\Área de Trabalho\09.11.2024-20241114T000744Z-001\09.11.2024\Odasu_MySQL-09-11-2024\Odasu_MySQL\obj\Debug\Odasu_MySQL.Forms.CADASTRO.resources
+C:\Users\Samsung\OneDrive\Área de Trabalho\09.11.2024-20241114T000744Z-001\09.11.2024\Odasu_MySQL-09-11-2024\Odasu_MySQL\obj\Debug\Odasu_MySQL.Forms.CONFIGURAÇÕES.resources
+C:\Users\Samsung\OneDrive\Área de Trabalho\09.11.2024-20241114T000744Z-001\09.11.2024\Odasu_MySQL-09-11-2024\Odasu_MySQL\obj\Debug\Odasu_MySQL.Forms.ESTOQUE.resources
+C:\Users\Samsung\OneDrive\Área de Trabalho\09.11.2024-20241114T000744Z-001\09.11.2024\Odasu_MySQL-09-11-2024\Odasu_MySQL\obj\Debug\Odasu_MySQL.Forms.FATURAMENTO.resources
+C:\Users\Samsung\OneDrive\Área de Trabalho\09.11.2024-20241114T000744Z-001\09.11.2024\Odasu_MySQL-09-11-2024\Odasu_MySQL\obj\Debug\Odasu_MySQL.Forms.PEDIDOS.resources
+C:\Users\Samsung\OneDrive\Área de Trabalho\09.11.2024-20241114T000744Z-001\09.11.2024\Odasu_MySQL-09-11-2024\Odasu_MySQL\obj\Debug\Odasu_MySQL.Login.resources
+C:\Users\Samsung\OneDrive\Área de Trabalho\09.11.2024-20241114T000744Z-001\09.11.2024\Odasu_MySQL-09-11-2024\Odasu_MySQL\obj\Debug\Odasu_MySQL.Principal.resources
+C:\Users\Samsung\OneDrive\Área de Trabalho\09.11.2024-20241114T000744Z-001\09.11.2024\Odasu_MySQL-09-11-2024\Odasu_MySQL\obj\Debug\Odasu_MySQL.Properties.Resources.resources
+C:\Users\Samsung\OneDrive\Área de Trabalho\09.11.2024-20241114T000744Z-001\09.11.2024\Odasu_MySQL-09-11-2024\Odasu_MySQL\obj\Debug\Odasu_MySQL.csproj.GenerateResource.cache
+C:\Users\Samsung\OneDrive\Área de Trabalho\09.11.2024-20241114T000744Z-001\09.11.2024\Odasu_MySQL-09-11-2024\Odasu_MySQL\obj\Debug\Odasu_MySQL.csproj.CoreCompileInputs.cache
+C:\Users\Samsung\OneDrive\Área de Trabalho\09.11.2024-20241114T000744Z-001\09.11.2024\Odasu_MySQL-09-11-2024\Odasu_MySQL\obj\Debug\Odasu_My.AB1C139F.Up2Date
+C:\Users\Samsung\OneDrive\Área de Trabalho\09.11.2024-20241114T000744Z-001\09.11.2024\Odasu_MySQL-09-11-2024\Odasu_MySQL\obj\Debug\Odasu_MySQL.exe
+C:\Users\Samsung\OneDrive\Área de Trabalho\09.11.2024-20241114T000744Z-001\09.11.2024\Odasu_MySQL-09-11-2024\Odasu_MySQL\obj\Debug\Odasu_MySQL.pdb
+C:\Users\jackd\Downloads\Nova pasta (3)\Odasu_MySQL-09-11-2024\Odasu_MySQL\bin\Debug\Odasu_MySQL.exe.config
+C:\Users\jackd\Downloads\Nova pasta (3)\Odasu_MySQL-09-11-2024\Odasu_MySQL\bin\Debug\Odasu_MySQL.exe
+C:\Users\jackd\Downloads\Nova pasta (3)\Odasu_MySQL-09-11-2024\Odasu_MySQL\bin\Debug\Odasu_MySQL.pdb
+C:\Users\jackd\Downloads\Nova pasta (3)\Odasu_MySQL-09-11-2024\Odasu_MySQL\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\jackd\Downloads\Nova pasta (3)\Odasu_MySQL-09-11-2024\Odasu_MySQL\bin\Debug\Google.Protobuf.dll
+C:\Users\jackd\Downloads\Nova pasta (3)\Odasu_MySQL-09-11-2024\Odasu_MySQL\bin\Debug\itext.barcodes.dll
+C:\Users\jackd\Downloads\Nova pasta (3)\Odasu_MySQL-09-11-2024\Odasu_MySQL\bin\Debug\itext.bouncy-castle-connector.dll
+C:\Users\jackd\Downloads\Nova pasta (3)\Odasu_MySQL-09-11-2024\Odasu_MySQL\bin\Debug\itext.commons.dll
+C:\Users\jackd\Downloads\Nova pasta (3)\Odasu_MySQL-09-11-2024\Odasu_MySQL\bin\Debug\itext.forms.dll
+C:\Users\jackd\Downloads\Nova pasta (3)\Odasu_MySQL-09-11-2024\Odasu_MySQL\bin\Debug\itext.io.dll
+C:\Users\jackd\Downloads\Nova pasta (3)\Odasu_MySQL-09-11-2024\Odasu_MySQL\bin\Debug\itext.kernel.dll
+C:\Users\jackd\Downloads\Nova pasta (3)\Odasu_MySQL-09-11-2024\Odasu_MySQL\bin\Debug\itext.layout.dll
+C:\Users\jackd\Downloads\Nova pasta (3)\Odasu_MySQL-09-11-2024\Odasu_MySQL\bin\Debug\itext.pdfa.dll
+C:\Users\jackd\Downloads\Nova pasta (3)\Odasu_MySQL-09-11-2024\Odasu_MySQL\bin\Debug\itext.pdfua.dll
+C:\Users\jackd\Downloads\Nova pasta (3)\Odasu_MySQL-09-11-2024\Odasu_MySQL\bin\Debug\itext.sign.dll
+C:\Users\jackd\Downloads\Nova pasta (3)\Odasu_MySQL-09-11-2024\Odasu_MySQL\bin\Debug\itext.styledxmlparser.dll
+C:\Users\jackd\Downloads\Nova pasta (3)\Odasu_MySQL-09-11-2024\Odasu_MySQL\bin\Debug\itext.svg.dll
+C:\Users\jackd\Downloads\Nova pasta (3)\Odasu_MySQL-09-11-2024\Odasu_MySQL\bin\Debug\itextsharp.dll
+C:\Users\jackd\Downloads\Nova pasta (3)\Odasu_MySQL-09-11-2024\Odasu_MySQL\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\jackd\Downloads\Nova pasta (3)\Odasu_MySQL-09-11-2024\Odasu_MySQL\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\jackd\Downloads\Nova pasta (3)\Odasu_MySQL-09-11-2024\Odasu_MySQL\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\jackd\Downloads\Nova pasta (3)\Odasu_MySQL-09-11-2024\Odasu_MySQL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\jackd\Downloads\Nova pasta (3)\Odasu_MySQL-09-11-2024\Odasu_MySQL\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\jackd\Downloads\Nova pasta (3)\Odasu_MySQL-09-11-2024\Odasu_MySQL\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\jackd\Downloads\Nova pasta (3)\Odasu_MySQL-09-11-2024\Odasu_MySQL\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\jackd\Downloads\Nova pasta (3)\Odasu_MySQL-09-11-2024\Odasu_MySQL\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\jackd\Downloads\Nova pasta (3)\Odasu_MySQL-09-11-2024\Odasu_MySQL\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\jackd\Downloads\Nova pasta (3)\Odasu_MySQL-09-11-2024\Odasu_MySQL\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\jackd\Downloads\Nova pasta (3)\Odasu_MySQL-09-11-2024\Odasu_MySQL\bin\Debug\MySql.Data.dll
+C:\Users\jackd\Downloads\Nova pasta (3)\Odasu_MySQL-09-11-2024\Odasu_MySQL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\jackd\Downloads\Nova pasta (3)\Odasu_MySQL-09-11-2024\Odasu_MySQL\bin\Debug\System.Buffers.dll
+C:\Users\jackd\Downloads\Nova pasta (3)\Odasu_MySQL-09-11-2024\Odasu_MySQL\bin\Debug\System.Collections.Immutable.dll
+C:\Users\jackd\Downloads\Nova pasta (3)\Odasu_MySQL-09-11-2024\Odasu_MySQL\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\jackd\Downloads\Nova pasta (3)\Odasu_MySQL-09-11-2024\Odasu_MySQL\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\jackd\Downloads\Nova pasta (3)\Odasu_MySQL-09-11-2024\Odasu_MySQL\bin\Debug\System.IO.Pipelines.dll
+C:\Users\jackd\Downloads\Nova pasta (3)\Odasu_MySQL-09-11-2024\Odasu_MySQL\bin\Debug\System.Memory.dll
+C:\Users\jackd\Downloads\Nova pasta (3)\Odasu_MySQL-09-11-2024\Odasu_MySQL\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\jackd\Downloads\Nova pasta (3)\Odasu_MySQL-09-11-2024\Odasu_MySQL\bin\Debug\System.Reflection.Metadata.dll
+C:\Users\jackd\Downloads\Nova pasta (3)\Odasu_MySQL-09-11-2024\Odasu_MySQL\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\jackd\Downloads\Nova pasta (3)\Odasu_MySQL-09-11-2024\Odasu_MySQL\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\jackd\Downloads\Nova pasta (3)\Odasu_MySQL-09-11-2024\Odasu_MySQL\bin\Debug\System.ValueTuple.dll
+C:\Users\jackd\Downloads\Nova pasta (3)\Odasu_MySQL-09-11-2024\Odasu_MySQL\bin\Debug\ZstdSharp.dll
+C:\Users\jackd\Downloads\Nova pasta (3)\Odasu_MySQL-09-11-2024\Odasu_MySQL\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\jackd\Downloads\Nova pasta (3)\Odasu_MySQL-09-11-2024\Odasu_MySQL\bin\Debug\Google.Protobuf.pdb
+C:\Users\jackd\Downloads\Nova pasta (3)\Odasu_MySQL-09-11-2024\Odasu_MySQL\bin\Debug\Google.Protobuf.xml
+C:\Users\jackd\Downloads\Nova pasta (3)\Odasu_MySQL-09-11-2024\Odasu_MySQL\bin\Debug\itext.barcodes.xml
+C:\Users\jackd\Downloads\Nova pasta (3)\Odasu_MySQL-09-11-2024\Odasu_MySQL\bin\Debug\itext.bouncy-castle-connector.xml
+C:\Users\jackd\Downloads\Nova pasta (3)\Odasu_MySQL-09-11-2024\Odasu_MySQL\bin\Debug\itext.commons.xml
+C:\Users\jackd\Downloads\Nova pasta (3)\Odasu_MySQL-09-11-2024\Odasu_MySQL\bin\Debug\itext.forms.xml
+C:\Users\jackd\Downloads\Nova pasta (3)\Odasu_MySQL-09-11-2024\Odasu_MySQL\bin\Debug\itext.io.xml
+C:\Users\jackd\Downloads\Nova pasta (3)\Odasu_MySQL-09-11-2024\Odasu_MySQL\bin\Debug\itext.kernel.xml
+C:\Users\jackd\Downloads\Nova pasta (3)\Odasu_MySQL-09-11-2024\Odasu_MySQL\bin\Debug\itext.layout.xml
+C:\Users\jackd\Downloads\Nova pasta (3)\Odasu_MySQL-09-11-2024\Odasu_MySQL\bin\Debug\itext.pdfa.xml
+C:\Users\jackd\Downloads\Nova pasta (3)\Odasu_MySQL-09-11-2024\Odasu_MySQL\bin\Debug\itext.pdfua.xml
+C:\Users\jackd\Downloads\Nova pasta (3)\Odasu_MySQL-09-11-2024\Odasu_MySQL\bin\Debug\itext.sign.xml
+C:\Users\jackd\Downloads\Nova pasta (3)\Odasu_MySQL-09-11-2024\Odasu_MySQL\bin\Debug\itext.styledxmlparser.xml
+C:\Users\jackd\Downloads\Nova pasta (3)\Odasu_MySQL-09-11-2024\Odasu_MySQL\bin\Debug\itext.svg.xml
+C:\Users\jackd\Downloads\Nova pasta (3)\Odasu_MySQL-09-11-2024\Odasu_MySQL\bin\Debug\itextsharp.xml
+C:\Users\jackd\Downloads\Nova pasta (3)\Odasu_MySQL-09-11-2024\Odasu_MySQL\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\jackd\Downloads\Nova pasta (3)\Odasu_MySQL-09-11-2024\Odasu_MySQL\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\jackd\Downloads\Nova pasta (3)\Odasu_MySQL-09-11-2024\Odasu_MySQL\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\jackd\Downloads\Nova pasta (3)\Odasu_MySQL-09-11-2024\Odasu_MySQL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\jackd\Downloads\Nova pasta (3)\Odasu_MySQL-09-11-2024\Odasu_MySQL\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\jackd\Downloads\Nova pasta (3)\Odasu_MySQL-09-11-2024\Odasu_MySQL\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\jackd\Downloads\Nova pasta (3)\Odasu_MySQL-09-11-2024\Odasu_MySQL\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\jackd\Downloads\Nova pasta (3)\Odasu_MySQL-09-11-2024\Odasu_MySQL\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\jackd\Downloads\Nova pasta (3)\Odasu_MySQL-09-11-2024\Odasu_MySQL\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\jackd\Downloads\Nova pasta (3)\Odasu_MySQL-09-11-2024\Odasu_MySQL\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\jackd\Downloads\Nova pasta (3)\Odasu_MySQL-09-11-2024\Odasu_MySQL\bin\Debug\MySql.Data.xml
+C:\Users\jackd\Downloads\Nova pasta (3)\Odasu_MySQL-09-11-2024\Odasu_MySQL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\jackd\Downloads\Nova pasta (3)\Odasu_MySQL-09-11-2024\Odasu_MySQL\bin\Debug\System.Buffers.xml
+C:\Users\jackd\Downloads\Nova pasta (3)\Odasu_MySQL-09-11-2024\Odasu_MySQL\bin\Debug\System.Collections.Immutable.xml
+C:\Users\jackd\Downloads\Nova pasta (3)\Odasu_MySQL-09-11-2024\Odasu_MySQL\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\jackd\Downloads\Nova pasta (3)\Odasu_MySQL-09-11-2024\Odasu_MySQL\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\jackd\Downloads\Nova pasta (3)\Odasu_MySQL-09-11-2024\Odasu_MySQL\bin\Debug\System.IO.Pipelines.xml
+C:\Users\jackd\Downloads\Nova pasta (3)\Odasu_MySQL-09-11-2024\Odasu_MySQL\bin\Debug\System.Memory.xml
+C:\Users\jackd\Downloads\Nova pasta (3)\Odasu_MySQL-09-11-2024\Odasu_MySQL\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\jackd\Downloads\Nova pasta (3)\Odasu_MySQL-09-11-2024\Odasu_MySQL\bin\Debug\System.Reflection.Metadata.xml
+C:\Users\jackd\Downloads\Nova pasta (3)\Odasu_MySQL-09-11-2024\Odasu_MySQL\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\jackd\Downloads\Nova pasta (3)\Odasu_MySQL-09-11-2024\Odasu_MySQL\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\jackd\Downloads\Nova pasta (3)\Odasu_MySQL-09-11-2024\Odasu_MySQL\bin\Debug\System.ValueTuple.xml
+C:\Users\jackd\Downloads\Nova pasta (3)\Odasu_MySQL-09-11-2024\Odasu_MySQL\obj\Debug\Odasu_MySQL.csproj.AssemblyReference.cache
+C:\Users\jackd\Downloads\Nova pasta (3)\Odasu_MySQL-09-11-2024\Odasu_MySQL\obj\Debug\Odasu_MySQL.Cadastro.resources
+C:\Users\jackd\Downloads\Nova pasta (3)\Odasu_MySQL-09-11-2024\Odasu_MySQL\obj\Debug\Odasu_MySQL.Forms.ESTOQUE.resources
+C:\Users\jackd\Downloads\Nova pasta (3)\Odasu_MySQL-09-11-2024\Odasu_MySQL\obj\Debug\Odasu_MySQL.Forms.FATURAMENTO.resources
+C:\Users\jackd\Downloads\Nova pasta (3)\Odasu_MySQL-09-11-2024\Odasu_MySQL\obj\Debug\Odasu_MySQL.Forms.PEDIDOS.resources
+C:\Users\jackd\Downloads\Nova pasta (3)\Odasu_MySQL-09-11-2024\Odasu_MySQL\obj\Debug\Odasu_MySQL.Login.resources
+C:\Users\jackd\Downloads\Nova pasta (3)\Odasu_MySQL-09-11-2024\Odasu_MySQL\obj\Debug\Odasu_MySQL.Principal.resources
+C:\Users\jackd\Downloads\Nova pasta (3)\Odasu_MySQL-09-11-2024\Odasu_MySQL\obj\Debug\Odasu_MySQL.Properties.Resources.resources
+C:\Users\jackd\Downloads\Nova pasta (3)\Odasu_MySQL-09-11-2024\Odasu_MySQL\obj\Debug\Odasu_MySQL.csproj.GenerateResource.cache
+C:\Users\jackd\Downloads\Nova pasta (3)\Odasu_MySQL-09-11-2024\Odasu_MySQL\obj\Debug\Odasu_MySQL.csproj.CoreCompileInputs.cache
+C:\Users\jackd\Downloads\Nova pasta (3)\Odasu_MySQL-09-11-2024\Odasu_MySQL\obj\Debug\Odasu_My.AB1C139F.Up2Date
+C:\Users\jackd\Downloads\Nova pasta (3)\Odasu_MySQL-09-11-2024\Odasu_MySQL\obj\Debug\Odasu_MySQL.exe
+C:\Users\jackd\Downloads\Nova pasta (3)\Odasu_MySQL-09-11-2024\Odasu_MySQL\obj\Debug\Odasu_MySQL.pdb
+C:\Users\jackd\Downloads\Nova pasta (3)\Odasu_MySQL-09-11-2024\Odasu_MySQL\obj\Debug\Odasu_MySQL.Forms.CONFIGURACOES.resources
+C:\Users\jackd\Downloads\Nova pasta (3)\Odasu_MySQL-09-11-2024\Odasu_MySQL\obj\Debug\Odasu_MySQL.Forms.CLIENTES.resources
+C:\Users\Samsung\OneDrive\Área de Trabalho\16.11.2024-20241118T132602Z-001\16.11.2024\Atualizado\Odasu_MySQL\bin\Debug\Odasu_MySQL.exe.config
+C:\Users\Samsung\OneDrive\Área de Trabalho\16.11.2024-20241118T132602Z-001\16.11.2024\Atualizado\Odasu_MySQL\bin\Debug\Odasu_MySQL.exe
+C:\Users\Samsung\OneDrive\Área de Trabalho\16.11.2024-20241118T132602Z-001\16.11.2024\Atualizado\Odasu_MySQL\bin\Debug\Odasu_MySQL.pdb
+C:\Users\Samsung\OneDrive\Área de Trabalho\16.11.2024-20241118T132602Z-001\16.11.2024\Atualizado\Odasu_MySQL\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\Samsung\OneDrive\Área de Trabalho\16.11.2024-20241118T132602Z-001\16.11.2024\Atualizado\Odasu_MySQL\bin\Debug\Google.Protobuf.dll
+C:\Users\Samsung\OneDrive\Área de Trabalho\16.11.2024-20241118T132602Z-001\16.11.2024\Atualizado\Odasu_MySQL\bin\Debug\itext.barcodes.dll
+C:\Users\Samsung\OneDrive\Área de Trabalho\16.11.2024-20241118T132602Z-001\16.11.2024\Atualizado\Odasu_MySQL\bin\Debug\itext.bouncy-castle-connector.dll
+C:\Users\Samsung\OneDrive\Área de Trabalho\16.11.2024-20241118T132602Z-001\16.11.2024\Atualizado\Odasu_MySQL\bin\Debug\itext.commons.dll
+C:\Users\Samsung\OneDrive\Área de Trabalho\16.11.2024-20241118T132602Z-001\16.11.2024\Atualizado\Odasu_MySQL\bin\Debug\itext.forms.dll
+C:\Users\Samsung\OneDrive\Área de Trabalho\16.11.2024-20241118T132602Z-001\16.11.2024\Atualizado\Odasu_MySQL\bin\Debug\itext.io.dll
+C:\Users\Samsung\OneDrive\Área de Trabalho\16.11.2024-20241118T132602Z-001\16.11.2024\Atualizado\Odasu_MySQL\bin\Debug\itext.kernel.dll
+C:\Users\Samsung\OneDrive\Área de Trabalho\16.11.2024-20241118T132602Z-001\16.11.2024\Atualizado\Odasu_MySQL\bin\Debug\itext.layout.dll
+C:\Users\Samsung\OneDrive\Área de Trabalho\16.11.2024-20241118T132602Z-001\16.11.2024\Atualizado\Odasu_MySQL\bin\Debug\itext.pdfa.dll
+C:\Users\Samsung\OneDrive\Área de Trabalho\16.11.2024-20241118T132602Z-001\16.11.2024\Atualizado\Odasu_MySQL\bin\Debug\itext.pdfua.dll
+C:\Users\Samsung\OneDrive\Área de Trabalho\16.11.2024-20241118T132602Z-001\16.11.2024\Atualizado\Odasu_MySQL\bin\Debug\itext.sign.dll
+C:\Users\Samsung\OneDrive\Área de Trabalho\16.11.2024-20241118T132602Z-001\16.11.2024\Atualizado\Odasu_MySQL\bin\Debug\itext.styledxmlparser.dll
+C:\Users\Samsung\OneDrive\Área de Trabalho\16.11.2024-20241118T132602Z-001\16.11.2024\Atualizado\Odasu_MySQL\bin\Debug\itext.svg.dll
+C:\Users\Samsung\OneDrive\Área de Trabalho\16.11.2024-20241118T132602Z-001\16.11.2024\Atualizado\Odasu_MySQL\bin\Debug\itextsharp.dll
+C:\Users\Samsung\OneDrive\Área de Trabalho\16.11.2024-20241118T132602Z-001\16.11.2024\Atualizado\Odasu_MySQL\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Samsung\OneDrive\Área de Trabalho\16.11.2024-20241118T132602Z-001\16.11.2024\Atualizado\Odasu_MySQL\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Samsung\OneDrive\Área de Trabalho\16.11.2024-20241118T132602Z-001\16.11.2024\Atualizado\Odasu_MySQL\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Samsung\OneDrive\Área de Trabalho\16.11.2024-20241118T132602Z-001\16.11.2024\Atualizado\Odasu_MySQL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Samsung\OneDrive\Área de Trabalho\16.11.2024-20241118T132602Z-001\16.11.2024\Atualizado\Odasu_MySQL\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Samsung\OneDrive\Área de Trabalho\16.11.2024-20241118T132602Z-001\16.11.2024\Atualizado\Odasu_MySQL\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Samsung\OneDrive\Área de Trabalho\16.11.2024-20241118T132602Z-001\16.11.2024\Atualizado\Odasu_MySQL\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Samsung\OneDrive\Área de Trabalho\16.11.2024-20241118T132602Z-001\16.11.2024\Atualizado\Odasu_MySQL\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\Samsung\OneDrive\Área de Trabalho\16.11.2024-20241118T132602Z-001\16.11.2024\Atualizado\Odasu_MySQL\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\Samsung\OneDrive\Área de Trabalho\16.11.2024-20241118T132602Z-001\16.11.2024\Atualizado\Odasu_MySQL\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Samsung\OneDrive\Área de Trabalho\16.11.2024-20241118T132602Z-001\16.11.2024\Atualizado\Odasu_MySQL\bin\Debug\MySql.Data.dll
+C:\Users\Samsung\OneDrive\Área de Trabalho\16.11.2024-20241118T132602Z-001\16.11.2024\Atualizado\Odasu_MySQL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Samsung\OneDrive\Área de Trabalho\16.11.2024-20241118T132602Z-001\16.11.2024\Atualizado\Odasu_MySQL\bin\Debug\System.Buffers.dll
+C:\Users\Samsung\OneDrive\Área de Trabalho\16.11.2024-20241118T132602Z-001\16.11.2024\Atualizado\Odasu_MySQL\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Samsung\OneDrive\Área de Trabalho\16.11.2024-20241118T132602Z-001\16.11.2024\Atualizado\Odasu_MySQL\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Samsung\OneDrive\Área de Trabalho\16.11.2024-20241118T132602Z-001\16.11.2024\Atualizado\Odasu_MySQL\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Samsung\OneDrive\Área de Trabalho\16.11.2024-20241118T132602Z-001\16.11.2024\Atualizado\Odasu_MySQL\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Samsung\OneDrive\Área de Trabalho\16.11.2024-20241118T132602Z-001\16.11.2024\Atualizado\Odasu_MySQL\bin\Debug\System.Memory.dll
+C:\Users\Samsung\OneDrive\Área de Trabalho\16.11.2024-20241118T132602Z-001\16.11.2024\Atualizado\Odasu_MySQL\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Samsung\OneDrive\Área de Trabalho\16.11.2024-20241118T132602Z-001\16.11.2024\Atualizado\Odasu_MySQL\bin\Debug\System.Reflection.Metadata.dll
+C:\Users\Samsung\OneDrive\Área de Trabalho\16.11.2024-20241118T132602Z-001\16.11.2024\Atualizado\Odasu_MySQL\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Samsung\OneDrive\Área de Trabalho\16.11.2024-20241118T132602Z-001\16.11.2024\Atualizado\Odasu_MySQL\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Samsung\OneDrive\Área de Trabalho\16.11.2024-20241118T132602Z-001\16.11.2024\Atualizado\Odasu_MySQL\bin\Debug\System.ValueTuple.dll
+C:\Users\Samsung\OneDrive\Área de Trabalho\16.11.2024-20241118T132602Z-001\16.11.2024\Atualizado\Odasu_MySQL\bin\Debug\ZstdSharp.dll
+C:\Users\Samsung\OneDrive\Área de Trabalho\16.11.2024-20241118T132602Z-001\16.11.2024\Atualizado\Odasu_MySQL\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\Samsung\OneDrive\Área de Trabalho\16.11.2024-20241118T132602Z-001\16.11.2024\Atualizado\Odasu_MySQL\bin\Debug\Google.Protobuf.pdb
+C:\Users\Samsung\OneDrive\Área de Trabalho\16.11.2024-20241118T132602Z-001\16.11.2024\Atualizado\Odasu_MySQL\bin\Debug\Google.Protobuf.xml
+C:\Users\Samsung\OneDrive\Área de Trabalho\16.11.2024-20241118T132602Z-001\16.11.2024\Atualizado\Odasu_MySQL\bin\Debug\itext.barcodes.xml
+C:\Users\Samsung\OneDrive\Área de Trabalho\16.11.2024-20241118T132602Z-001\16.11.2024\Atualizado\Odasu_MySQL\bin\Debug\itext.bouncy-castle-connector.xml
+C:\Users\Samsung\OneDrive\Área de Trabalho\16.11.2024-20241118T132602Z-001\16.11.2024\Atualizado\Odasu_MySQL\bin\Debug\itext.commons.xml
+C:\Users\Samsung\OneDrive\Área de Trabalho\16.11.2024-20241118T132602Z-001\16.11.2024\Atualizado\Odasu_MySQL\bin\Debug\itext.forms.xml
+C:\Users\Samsung\OneDrive\Área de Trabalho\16.11.2024-20241118T132602Z-001\16.11.2024\Atualizado\Odasu_MySQL\bin\Debug\itext.io.xml
+C:\Users\Samsung\OneDrive\Área de Trabalho\16.11.2024-20241118T132602Z-001\16.11.2024\Atualizado\Odasu_MySQL\bin\Debug\itext.kernel.xml
+C:\Users\Samsung\OneDrive\Área de Trabalho\16.11.2024-20241118T132602Z-001\16.11.2024\Atualizado\Odasu_MySQL\bin\Debug\itext.layout.xml
+C:\Users\Samsung\OneDrive\Área de Trabalho\16.11.2024-20241118T132602Z-001\16.11.2024\Atualizado\Odasu_MySQL\bin\Debug\itext.pdfa.xml
+C:\Users\Samsung\OneDrive\Área de Trabalho\16.11.2024-20241118T132602Z-001\16.11.2024\Atualizado\Odasu_MySQL\bin\Debug\itext.pdfua.xml
+C:\Users\Samsung\OneDrive\Área de Trabalho\16.11.2024-20241118T132602Z-001\16.11.2024\Atualizado\Odasu_MySQL\bin\Debug\itext.sign.xml
+C:\Users\Samsung\OneDrive\Área de Trabalho\16.11.2024-20241118T132602Z-001\16.11.2024\Atualizado\Odasu_MySQL\bin\Debug\itext.styledxmlparser.xml
+C:\Users\Samsung\OneDrive\Área de Trabalho\16.11.2024-20241118T132602Z-001\16.11.2024\Atualizado\Odasu_MySQL\bin\Debug\itext.svg.xml
+C:\Users\Samsung\OneDrive\Área de Trabalho\16.11.2024-20241118T132602Z-001\16.11.2024\Atualizado\Odasu_MySQL\bin\Debug\itextsharp.xml
+C:\Users\Samsung\OneDrive\Área de Trabalho\16.11.2024-20241118T132602Z-001\16.11.2024\Atualizado\Odasu_MySQL\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Samsung\OneDrive\Área de Trabalho\16.11.2024-20241118T132602Z-001\16.11.2024\Atualizado\Odasu_MySQL\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Samsung\OneDrive\Área de Trabalho\16.11.2024-20241118T132602Z-001\16.11.2024\Atualizado\Odasu_MySQL\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Samsung\OneDrive\Área de Trabalho\16.11.2024-20241118T132602Z-001\16.11.2024\Atualizado\Odasu_MySQL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Samsung\OneDrive\Área de Trabalho\16.11.2024-20241118T132602Z-001\16.11.2024\Atualizado\Odasu_MySQL\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Samsung\OneDrive\Área de Trabalho\16.11.2024-20241118T132602Z-001\16.11.2024\Atualizado\Odasu_MySQL\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Samsung\OneDrive\Área de Trabalho\16.11.2024-20241118T132602Z-001\16.11.2024\Atualizado\Odasu_MySQL\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\Samsung\OneDrive\Área de Trabalho\16.11.2024-20241118T132602Z-001\16.11.2024\Atualizado\Odasu_MySQL\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Samsung\OneDrive\Área de Trabalho\16.11.2024-20241118T132602Z-001\16.11.2024\Atualizado\Odasu_MySQL\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\Samsung\OneDrive\Área de Trabalho\16.11.2024-20241118T132602Z-001\16.11.2024\Atualizado\Odasu_MySQL\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\Samsung\OneDrive\Área de Trabalho\16.11.2024-20241118T132602Z-001\16.11.2024\Atualizado\Odasu_MySQL\bin\Debug\MySql.Data.xml
+C:\Users\Samsung\OneDrive\Área de Trabalho\16.11.2024-20241118T132602Z-001\16.11.2024\Atualizado\Odasu_MySQL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Samsung\OneDrive\Área de Trabalho\16.11.2024-20241118T132602Z-001\16.11.2024\Atualizado\Odasu_MySQL\bin\Debug\System.Buffers.xml
+C:\Users\Samsung\OneDrive\Área de Trabalho\16.11.2024-20241118T132602Z-001\16.11.2024\Atualizado\Odasu_MySQL\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Samsung\OneDrive\Área de Trabalho\16.11.2024-20241118T132602Z-001\16.11.2024\Atualizado\Odasu_MySQL\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Samsung\OneDrive\Área de Trabalho\16.11.2024-20241118T132602Z-001\16.11.2024\Atualizado\Odasu_MySQL\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Samsung\OneDrive\Área de Trabalho\16.11.2024-20241118T132602Z-001\16.11.2024\Atualizado\Odasu_MySQL\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Samsung\OneDrive\Área de Trabalho\16.11.2024-20241118T132602Z-001\16.11.2024\Atualizado\Odasu_MySQL\bin\Debug\System.Memory.xml
+C:\Users\Samsung\OneDrive\Área de Trabalho\16.11.2024-20241118T132602Z-001\16.11.2024\Atualizado\Odasu_MySQL\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Samsung\OneDrive\Área de Trabalho\16.11.2024-20241118T132602Z-001\16.11.2024\Atualizado\Odasu_MySQL\bin\Debug\System.Reflection.Metadata.xml
+C:\Users\Samsung\OneDrive\Área de Trabalho\16.11.2024-20241118T132602Z-001\16.11.2024\Atualizado\Odasu_MySQL\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Samsung\OneDrive\Área de Trabalho\16.11.2024-20241118T132602Z-001\16.11.2024\Atualizado\Odasu_MySQL\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Samsung\OneDrive\Área de Trabalho\16.11.2024-20241118T132602Z-001\16.11.2024\Atualizado\Odasu_MySQL\bin\Debug\System.ValueTuple.xml
+C:\Users\Samsung\OneDrive\Área de Trabalho\16.11.2024-20241118T132602Z-001\16.11.2024\Atualizado\Odasu_MySQL\obj\Debug\Odasu_MySQL.csproj.AssemblyReference.cache
+C:\Users\Samsung\OneDrive\Área de Trabalho\16.11.2024-20241118T132602Z-001\16.11.2024\Atualizado\Odasu_MySQL\obj\Debug\Odasu_MySQL.Cadastro.resources
+C:\Users\Samsung\OneDrive\Área de Trabalho\16.11.2024-20241118T132602Z-001\16.11.2024\Atualizado\Odasu_MySQL\obj\Debug\Odasu_MySQL.Forms.CONFIGURACOES.resources
+C:\Users\Samsung\OneDrive\Área de Trabalho\16.11.2024-20241118T132602Z-001\16.11.2024\Atualizado\Odasu_MySQL\obj\Debug\Odasu_MySQL.Forms.CLIENTES.resources
+C:\Users\Samsung\OneDrive\Área de Trabalho\16.11.2024-20241118T132602Z-001\16.11.2024\Atualizado\Odasu_MySQL\obj\Debug\Odasu_MySQL.Forms.ESTOQUE.resources
+C:\Users\Samsung\OneDrive\Área de Trabalho\16.11.2024-20241118T132602Z-001\16.11.2024\Atualizado\Odasu_MySQL\obj\Debug\Odasu_MySQL.Forms.FATURAMENTO.resources
+C:\Users\Samsung\OneDrive\Área de Trabalho\16.11.2024-20241118T132602Z-001\16.11.2024\Atualizado\Odasu_MySQL\obj\Debug\Odasu_MySQL.Forms.PEDIDOS.resources
+C:\Users\Samsung\OneDrive\Área de Trabalho\16.11.2024-20241118T132602Z-001\16.11.2024\Atualizado\Odasu_MySQL\obj\Debug\Odasu_MySQL.Login.resources
+C:\Users\Samsung\OneDrive\Área de Trabalho\16.11.2024-20241118T132602Z-001\16.11.2024\Atualizado\Odasu_MySQL\obj\Debug\Odasu_MySQL.Principal.resources
+C:\Users\Samsung\OneDrive\Área de Trabalho\16.11.2024-20241118T132602Z-001\16.11.2024\Atualizado\Odasu_MySQL\obj\Debug\Odasu_MySQL.Properties.Resources.resources
+C:\Users\Samsung\OneDrive\Área de Trabalho\16.11.2024-20241118T132602Z-001\16.11.2024\Atualizado\Odasu_MySQL\obj\Debug\Odasu_MySQL.csproj.GenerateResource.cache
+C:\Users\Samsung\OneDrive\Área de Trabalho\16.11.2024-20241118T132602Z-001\16.11.2024\Atualizado\Odasu_MySQL\obj\Debug\Odasu_MySQL.csproj.CoreCompileInputs.cache
+C:\Users\Samsung\OneDrive\Área de Trabalho\16.11.2024-20241118T132602Z-001\16.11.2024\Atualizado\Odasu_MySQL\obj\Debug\Odasu_My.AB1C139F.Up2Date
+C:\Users\Samsung\OneDrive\Área de Trabalho\16.11.2024-20241118T132602Z-001\16.11.2024\Atualizado\Odasu_MySQL\obj\Debug\Odasu_MySQL.exe
+C:\Users\Samsung\OneDrive\Área de Trabalho\16.11.2024-20241118T132602Z-001\16.11.2024\Atualizado\Odasu_MySQL\obj\Debug\Odasu_MySQL.pdb
+C:\Users\jackd\Downloads\Odasu_19.11.2024\Odasu_19.11.2024\bin\Debug\Odasu_MySQL.exe.config
+C:\Users\jackd\Downloads\Odasu_19.11.2024\Odasu_19.11.2024\bin\Debug\Odasu_MySQL.exe
+C:\Users\jackd\Downloads\Odasu_19.11.2024\Odasu_19.11.2024\bin\Debug\Odasu_MySQL.pdb
+C:\Users\jackd\Downloads\Odasu_19.11.2024\Odasu_19.11.2024\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\jackd\Downloads\Odasu_19.11.2024\Odasu_19.11.2024\bin\Debug\Google.Protobuf.dll
+C:\Users\jackd\Downloads\Odasu_19.11.2024\Odasu_19.11.2024\bin\Debug\itext.barcodes.dll
+C:\Users\jackd\Downloads\Odasu_19.11.2024\Odasu_19.11.2024\bin\Debug\itext.bouncy-castle-connector.dll
+C:\Users\jackd\Downloads\Odasu_19.11.2024\Odasu_19.11.2024\bin\Debug\itext.commons.dll
+C:\Users\jackd\Downloads\Odasu_19.11.2024\Odasu_19.11.2024\bin\Debug\itext.forms.dll
+C:\Users\jackd\Downloads\Odasu_19.11.2024\Odasu_19.11.2024\bin\Debug\itext.io.dll
+C:\Users\jackd\Downloads\Odasu_19.11.2024\Odasu_19.11.2024\bin\Debug\itext.kernel.dll
+C:\Users\jackd\Downloads\Odasu_19.11.2024\Odasu_19.11.2024\bin\Debug\itext.layout.dll
+C:\Users\jackd\Downloads\Odasu_19.11.2024\Odasu_19.11.2024\bin\Debug\itext.pdfa.dll
+C:\Users\jackd\Downloads\Odasu_19.11.2024\Odasu_19.11.2024\bin\Debug\itext.pdfua.dll
+C:\Users\jackd\Downloads\Odasu_19.11.2024\Odasu_19.11.2024\bin\Debug\itext.sign.dll
+C:\Users\jackd\Downloads\Odasu_19.11.2024\Odasu_19.11.2024\bin\Debug\itext.styledxmlparser.dll
+C:\Users\jackd\Downloads\Odasu_19.11.2024\Odasu_19.11.2024\bin\Debug\itext.svg.dll
+C:\Users\jackd\Downloads\Odasu_19.11.2024\Odasu_19.11.2024\bin\Debug\itextsharp.dll
+C:\Users\jackd\Downloads\Odasu_19.11.2024\Odasu_19.11.2024\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\jackd\Downloads\Odasu_19.11.2024\Odasu_19.11.2024\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\jackd\Downloads\Odasu_19.11.2024\Odasu_19.11.2024\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\jackd\Downloads\Odasu_19.11.2024\Odasu_19.11.2024\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\jackd\Downloads\Odasu_19.11.2024\Odasu_19.11.2024\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\jackd\Downloads\Odasu_19.11.2024\Odasu_19.11.2024\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\jackd\Downloads\Odasu_19.11.2024\Odasu_19.11.2024\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\jackd\Downloads\Odasu_19.11.2024\Odasu_19.11.2024\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\jackd\Downloads\Odasu_19.11.2024\Odasu_19.11.2024\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\jackd\Downloads\Odasu_19.11.2024\Odasu_19.11.2024\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\jackd\Downloads\Odasu_19.11.2024\Odasu_19.11.2024\bin\Debug\MySql.Data.dll
+C:\Users\jackd\Downloads\Odasu_19.11.2024\Odasu_19.11.2024\bin\Debug\Newtonsoft.Json.dll
+C:\Users\jackd\Downloads\Odasu_19.11.2024\Odasu_19.11.2024\bin\Debug\System.Buffers.dll
+C:\Users\jackd\Downloads\Odasu_19.11.2024\Odasu_19.11.2024\bin\Debug\System.Collections.Immutable.dll
+C:\Users\jackd\Downloads\Odasu_19.11.2024\Odasu_19.11.2024\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\jackd\Downloads\Odasu_19.11.2024\Odasu_19.11.2024\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\jackd\Downloads\Odasu_19.11.2024\Odasu_19.11.2024\bin\Debug\System.IO.Pipelines.dll
+C:\Users\jackd\Downloads\Odasu_19.11.2024\Odasu_19.11.2024\bin\Debug\System.Memory.dll
+C:\Users\jackd\Downloads\Odasu_19.11.2024\Odasu_19.11.2024\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\jackd\Downloads\Odasu_19.11.2024\Odasu_19.11.2024\bin\Debug\System.Reflection.Metadata.dll
+C:\Users\jackd\Downloads\Odasu_19.11.2024\Odasu_19.11.2024\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\jackd\Downloads\Odasu_19.11.2024\Odasu_19.11.2024\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\jackd\Downloads\Odasu_19.11.2024\Odasu_19.11.2024\bin\Debug\System.ValueTuple.dll
+C:\Users\jackd\Downloads\Odasu_19.11.2024\Odasu_19.11.2024\bin\Debug\ZstdSharp.dll
+C:\Users\jackd\Downloads\Odasu_19.11.2024\Odasu_19.11.2024\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\jackd\Downloads\Odasu_19.11.2024\Odasu_19.11.2024\bin\Debug\Google.Protobuf.pdb
+C:\Users\jackd\Downloads\Odasu_19.11.2024\Odasu_19.11.2024\bin\Debug\Google.Protobuf.xml
+C:\Users\jackd\Downloads\Odasu_19.11.2024\Odasu_19.11.2024\bin\Debug\itext.barcodes.xml
+C:\Users\jackd\Downloads\Odasu_19.11.2024\Odasu_19.11.2024\bin\Debug\itext.bouncy-castle-connector.xml
+C:\Users\jackd\Downloads\Odasu_19.11.2024\Odasu_19.11.2024\bin\Debug\itext.commons.xml
+C:\Users\jackd\Downloads\Odasu_19.11.2024\Odasu_19.11.2024\bin\Debug\itext.forms.xml
+C:\Users\jackd\Downloads\Odasu_19.11.2024\Odasu_19.11.2024\bin\Debug\itext.io.xml
+C:\Users\jackd\Downloads\Odasu_19.11.2024\Odasu_19.11.2024\bin\Debug\itext.kernel.xml
+C:\Users\jackd\Downloads\Odasu_19.11.2024\Odasu_19.11.2024\bin\Debug\itext.layout.xml
+C:\Users\jackd\Downloads\Odasu_19.11.2024\Odasu_19.11.2024\bin\Debug\itext.pdfa.xml
+C:\Users\jackd\Downloads\Odasu_19.11.2024\Odasu_19.11.2024\bin\Debug\itext.pdfua.xml
+C:\Users\jackd\Downloads\Odasu_19.11.2024\Odasu_19.11.2024\bin\Debug\itext.sign.xml
+C:\Users\jackd\Downloads\Odasu_19.11.2024\Odasu_19.11.2024\bin\Debug\itext.styledxmlparser.xml
+C:\Users\jackd\Downloads\Odasu_19.11.2024\Odasu_19.11.2024\bin\Debug\itext.svg.xml
+C:\Users\jackd\Downloads\Odasu_19.11.2024\Odasu_19.11.2024\bin\Debug\itextsharp.xml
+C:\Users\jackd\Downloads\Odasu_19.11.2024\Odasu_19.11.2024\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\jackd\Downloads\Odasu_19.11.2024\Odasu_19.11.2024\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\jackd\Downloads\Odasu_19.11.2024\Odasu_19.11.2024\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\jackd\Downloads\Odasu_19.11.2024\Odasu_19.11.2024\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\jackd\Downloads\Odasu_19.11.2024\Odasu_19.11.2024\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\jackd\Downloads\Odasu_19.11.2024\Odasu_19.11.2024\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\jackd\Downloads\Odasu_19.11.2024\Odasu_19.11.2024\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\jackd\Downloads\Odasu_19.11.2024\Odasu_19.11.2024\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\jackd\Downloads\Odasu_19.11.2024\Odasu_19.11.2024\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\jackd\Downloads\Odasu_19.11.2024\Odasu_19.11.2024\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\jackd\Downloads\Odasu_19.11.2024\Odasu_19.11.2024\bin\Debug\MySql.Data.xml
+C:\Users\jackd\Downloads\Odasu_19.11.2024\Odasu_19.11.2024\bin\Debug\Newtonsoft.Json.xml
+C:\Users\jackd\Downloads\Odasu_19.11.2024\Odasu_19.11.2024\bin\Debug\System.Buffers.xml
+C:\Users\jackd\Downloads\Odasu_19.11.2024\Odasu_19.11.2024\bin\Debug\System.Collections.Immutable.xml
+C:\Users\jackd\Downloads\Odasu_19.11.2024\Odasu_19.11.2024\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\jackd\Downloads\Odasu_19.11.2024\Odasu_19.11.2024\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\jackd\Downloads\Odasu_19.11.2024\Odasu_19.11.2024\bin\Debug\System.IO.Pipelines.xml
+C:\Users\jackd\Downloads\Odasu_19.11.2024\Odasu_19.11.2024\bin\Debug\System.Memory.xml
+C:\Users\jackd\Downloads\Odasu_19.11.2024\Odasu_19.11.2024\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\jackd\Downloads\Odasu_19.11.2024\Odasu_19.11.2024\bin\Debug\System.Reflection.Metadata.xml
+C:\Users\jackd\Downloads\Odasu_19.11.2024\Odasu_19.11.2024\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\jackd\Downloads\Odasu_19.11.2024\Odasu_19.11.2024\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\jackd\Downloads\Odasu_19.11.2024\Odasu_19.11.2024\bin\Debug\System.ValueTuple.xml
+C:\Users\jackd\Downloads\Odasu_19.11.2024\Odasu_19.11.2024\obj\Debug\Odasu_MySQL.csproj.AssemblyReference.cache
+C:\Users\jackd\Downloads\Odasu_19.11.2024\Odasu_19.11.2024\obj\Debug\Odasu_MySQL.Cadastro.resources
+C:\Users\jackd\Downloads\Odasu_19.11.2024\Odasu_19.11.2024\obj\Debug\Odasu_MySQL.Forms.CONFIGURACOES.resources
+C:\Users\jackd\Downloads\Odasu_19.11.2024\Odasu_19.11.2024\obj\Debug\Odasu_MySQL.Forms.CLIENTES.resources
+C:\Users\jackd\Downloads\Odasu_19.11.2024\Odasu_19.11.2024\obj\Debug\Odasu_MySQL.Forms.ESTOQUE.resources
+C:\Users\jackd\Downloads\Odasu_19.11.2024\Odasu_19.11.2024\obj\Debug\Odasu_MySQL.Forms.FATURAMENTO.resources
+C:\Users\jackd\Downloads\Odasu_19.11.2024\Odasu_19.11.2024\obj\Debug\Odasu_MySQL.Forms.PEDIDOS.resources
+C:\Users\jackd\Downloads\Odasu_19.11.2024\Odasu_19.11.2024\obj\Debug\Odasu_MySQL.Login.resources
+C:\Users\jackd\Downloads\Odasu_19.11.2024\Odasu_19.11.2024\obj\Debug\Odasu_MySQL.Principal.resources
+C:\Users\jackd\Downloads\Odasu_19.11.2024\Odasu_19.11.2024\obj\Debug\Odasu_MySQL.Properties.Resources.resources
+C:\Users\jackd\Downloads\Odasu_19.11.2024\Odasu_19.11.2024\obj\Debug\Odasu_MySQL.csproj.GenerateResource.cache
+C:\Users\jackd\Downloads\Odasu_19.11.2024\Odasu_19.11.2024\obj\Debug\Odasu_MySQL.csproj.CoreCompileInputs.cache
+C:\Users\jackd\Downloads\Odasu_19.11.2024\Odasu_19.11.2024\obj\Debug\Odasu_My.AB1C139F.Up2Date
+C:\Users\jackd\Downloads\Odasu_19.11.2024\Odasu_19.11.2024\obj\Debug\Odasu_MySQL.exe
+C:\Users\jackd\Downloads\Odasu_19.11.2024\Odasu_19.11.2024\obj\Debug\Odasu_MySQL.pdb
+C:\Users\Samsung\OneDrive\Área de Trabalho\20.11.2024-20241120T194248Z-001\20.11.2024\Odasu_19.11.2024\bin\Debug\Odasu_MySQL.exe.config
+C:\Users\Samsung\OneDrive\Área de Trabalho\20.11.2024-20241120T194248Z-001\20.11.2024\Odasu_19.11.2024\bin\Debug\Odasu_MySQL.exe
+C:\Users\Samsung\OneDrive\Área de Trabalho\20.11.2024-20241120T194248Z-001\20.11.2024\Odasu_19.11.2024\bin\Debug\Odasu_MySQL.pdb
+C:\Users\Samsung\OneDrive\Área de Trabalho\20.11.2024-20241120T194248Z-001\20.11.2024\Odasu_19.11.2024\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\Samsung\OneDrive\Área de Trabalho\20.11.2024-20241120T194248Z-001\20.11.2024\Odasu_19.11.2024\bin\Debug\Google.Protobuf.dll
+C:\Users\Samsung\OneDrive\Área de Trabalho\20.11.2024-20241120T194248Z-001\20.11.2024\Odasu_19.11.2024\bin\Debug\itext.barcodes.dll
+C:\Users\Samsung\OneDrive\Área de Trabalho\20.11.2024-20241120T194248Z-001\20.11.2024\Odasu_19.11.2024\bin\Debug\itext.bouncy-castle-connector.dll
+C:\Users\Samsung\OneDrive\Área de Trabalho\20.11.2024-20241120T194248Z-001\20.11.2024\Odasu_19.11.2024\bin\Debug\itext.commons.dll
+C:\Users\Samsung\OneDrive\Área de Trabalho\20.11.2024-20241120T194248Z-001\20.11.2024\Odasu_19.11.2024\bin\Debug\itext.forms.dll
+C:\Users\Samsung\OneDrive\Área de Trabalho\20.11.2024-20241120T194248Z-001\20.11.2024\Odasu_19.11.2024\bin\Debug\itext.io.dll
+C:\Users\Samsung\OneDrive\Área de Trabalho\20.11.2024-20241120T194248Z-001\20.11.2024\Odasu_19.11.2024\bin\Debug\itext.kernel.dll
+C:\Users\Samsung\OneDrive\Área de Trabalho\20.11.2024-20241120T194248Z-001\20.11.2024\Odasu_19.11.2024\bin\Debug\itext.layout.dll
+C:\Users\Samsung\OneDrive\Área de Trabalho\20.11.2024-20241120T194248Z-001\20.11.2024\Odasu_19.11.2024\bin\Debug\itext.pdfa.dll
+C:\Users\Samsung\OneDrive\Área de Trabalho\20.11.2024-20241120T194248Z-001\20.11.2024\Odasu_19.11.2024\bin\Debug\itext.pdfua.dll
+C:\Users\Samsung\OneDrive\Área de Trabalho\20.11.2024-20241120T194248Z-001\20.11.2024\Odasu_19.11.2024\bin\Debug\itext.sign.dll
+C:\Users\Samsung\OneDrive\Área de Trabalho\20.11.2024-20241120T194248Z-001\20.11.2024\Odasu_19.11.2024\bin\Debug\itext.styledxmlparser.dll
+C:\Users\Samsung\OneDrive\Área de Trabalho\20.11.2024-20241120T194248Z-001\20.11.2024\Odasu_19.11.2024\bin\Debug\itext.svg.dll
+C:\Users\Samsung\OneDrive\Área de Trabalho\20.11.2024-20241120T194248Z-001\20.11.2024\Odasu_19.11.2024\bin\Debug\itextsharp.dll
+C:\Users\Samsung\OneDrive\Área de Trabalho\20.11.2024-20241120T194248Z-001\20.11.2024\Odasu_19.11.2024\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Samsung\OneDrive\Área de Trabalho\20.11.2024-20241120T194248Z-001\20.11.2024\Odasu_19.11.2024\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Samsung\OneDrive\Área de Trabalho\20.11.2024-20241120T194248Z-001\20.11.2024\Odasu_19.11.2024\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Samsung\OneDrive\Área de Trabalho\20.11.2024-20241120T194248Z-001\20.11.2024\Odasu_19.11.2024\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Samsung\OneDrive\Área de Trabalho\20.11.2024-20241120T194248Z-001\20.11.2024\Odasu_19.11.2024\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Samsung\OneDrive\Área de Trabalho\20.11.2024-20241120T194248Z-001\20.11.2024\Odasu_19.11.2024\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Samsung\OneDrive\Área de Trabalho\20.11.2024-20241120T194248Z-001\20.11.2024\Odasu_19.11.2024\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Samsung\OneDrive\Área de Trabalho\20.11.2024-20241120T194248Z-001\20.11.2024\Odasu_19.11.2024\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\Samsung\OneDrive\Área de Trabalho\20.11.2024-20241120T194248Z-001\20.11.2024\Odasu_19.11.2024\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\Samsung\OneDrive\Área de Trabalho\20.11.2024-20241120T194248Z-001\20.11.2024\Odasu_19.11.2024\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Samsung\OneDrive\Área de Trabalho\20.11.2024-20241120T194248Z-001\20.11.2024\Odasu_19.11.2024\bin\Debug\MySql.Data.dll
+C:\Users\Samsung\OneDrive\Área de Trabalho\20.11.2024-20241120T194248Z-001\20.11.2024\Odasu_19.11.2024\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Samsung\OneDrive\Área de Trabalho\20.11.2024-20241120T194248Z-001\20.11.2024\Odasu_19.11.2024\bin\Debug\System.Buffers.dll
+C:\Users\Samsung\OneDrive\Área de Trabalho\20.11.2024-20241120T194248Z-001\20.11.2024\Odasu_19.11.2024\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Samsung\OneDrive\Área de Trabalho\20.11.2024-20241120T194248Z-001\20.11.2024\Odasu_19.11.2024\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Samsung\OneDrive\Área de Trabalho\20.11.2024-20241120T194248Z-001\20.11.2024\Odasu_19.11.2024\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Samsung\OneDrive\Área de Trabalho\20.11.2024-20241120T194248Z-001\20.11.2024\Odasu_19.11.2024\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Samsung\OneDrive\Área de Trabalho\20.11.2024-20241120T194248Z-001\20.11.2024\Odasu_19.11.2024\bin\Debug\System.Memory.dll
+C:\Users\Samsung\OneDrive\Área de Trabalho\20.11.2024-20241120T194248Z-001\20.11.2024\Odasu_19.11.2024\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Samsung\OneDrive\Área de Trabalho\20.11.2024-20241120T194248Z-001\20.11.2024\Odasu_19.11.2024\bin\Debug\System.Reflection.Metadata.dll
+C:\Users\Samsung\OneDrive\Área de Trabalho\20.11.2024-20241120T194248Z-001\20.11.2024\Odasu_19.11.2024\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Samsung\OneDrive\Área de Trabalho\20.11.2024-20241120T194248Z-001\20.11.2024\Odasu_19.11.2024\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Samsung\OneDrive\Área de Trabalho\20.11.2024-20241120T194248Z-001\20.11.2024\Odasu_19.11.2024\bin\Debug\System.ValueTuple.dll
+C:\Users\Samsung\OneDrive\Área de Trabalho\20.11.2024-20241120T194248Z-001\20.11.2024\Odasu_19.11.2024\bin\Debug\ZstdSharp.dll
+C:\Users\Samsung\OneDrive\Área de Trabalho\20.11.2024-20241120T194248Z-001\20.11.2024\Odasu_19.11.2024\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\Samsung\OneDrive\Área de Trabalho\20.11.2024-20241120T194248Z-001\20.11.2024\Odasu_19.11.2024\bin\Debug\Google.Protobuf.pdb
+C:\Users\Samsung\OneDrive\Área de Trabalho\20.11.2024-20241120T194248Z-001\20.11.2024\Odasu_19.11.2024\bin\Debug\Google.Protobuf.xml
+C:\Users\Samsung\OneDrive\Área de Trabalho\20.11.2024-20241120T194248Z-001\20.11.2024\Odasu_19.11.2024\bin\Debug\itext.barcodes.xml
+C:\Users\Samsung\OneDrive\Área de Trabalho\20.11.2024-20241120T194248Z-001\20.11.2024\Odasu_19.11.2024\bin\Debug\itext.bouncy-castle-connector.xml
+C:\Users\Samsung\OneDrive\Área de Trabalho\20.11.2024-20241120T194248Z-001\20.11.2024\Odasu_19.11.2024\bin\Debug\itext.commons.xml
+C:\Users\Samsung\OneDrive\Área de Trabalho\20.11.2024-20241120T194248Z-001\20.11.2024\Odasu_19.11.2024\bin\Debug\itext.forms.xml
+C:\Users\Samsung\OneDrive\Área de Trabalho\20.11.2024-20241120T194248Z-001\20.11.2024\Odasu_19.11.2024\bin\Debug\itext.io.xml
+C:\Users\Samsung\OneDrive\Área de Trabalho\20.11.2024-20241120T194248Z-001\20.11.2024\Odasu_19.11.2024\bin\Debug\itext.kernel.xml
+C:\Users\Samsung\OneDrive\Área de Trabalho\20.11.2024-20241120T194248Z-001\20.11.2024\Odasu_19.11.2024\bin\Debug\itext.layout.xml
+C:\Users\Samsung\OneDrive\Área de Trabalho\20.11.2024-20241120T194248Z-001\20.11.2024\Odasu_19.11.2024\bin\Debug\itext.pdfa.xml
+C:\Users\Samsung\OneDrive\Área de Trabalho\20.11.2024-20241120T194248Z-001\20.11.2024\Odasu_19.11.2024\bin\Debug\itext.pdfua.xml
+C:\Users\Samsung\OneDrive\Área de Trabalho\20.11.2024-20241120T194248Z-001\20.11.2024\Odasu_19.11.2024\bin\Debug\itext.sign.xml
+C:\Users\Samsung\OneDrive\Área de Trabalho\20.11.2024-20241120T194248Z-001\20.11.2024\Odasu_19.11.2024\bin\Debug\itext.styledxmlparser.xml
+C:\Users\Samsung\OneDrive\Área de Trabalho\20.11.2024-20241120T194248Z-001\20.11.2024\Odasu_19.11.2024\bin\Debug\itext.svg.xml
+C:\Users\Samsung\OneDrive\Área de Trabalho\20.11.2024-20241120T194248Z-001\20.11.2024\Odasu_19.11.2024\bin\Debug\itextsharp.xml
+C:\Users\Samsung\OneDrive\Área de Trabalho\20.11.2024-20241120T194248Z-001\20.11.2024\Odasu_19.11.2024\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Samsung\OneDrive\Área de Trabalho\20.11.2024-20241120T194248Z-001\20.11.2024\Odasu_19.11.2024\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Samsung\OneDrive\Área de Trabalho\20.11.2024-20241120T194248Z-001\20.11.2024\Odasu_19.11.2024\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Samsung\OneDrive\Área de Trabalho\20.11.2024-20241120T194248Z-001\20.11.2024\Odasu_19.11.2024\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Samsung\OneDrive\Área de Trabalho\20.11.2024-20241120T194248Z-001\20.11.2024\Odasu_19.11.2024\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Samsung\OneDrive\Área de Trabalho\20.11.2024-20241120T194248Z-001\20.11.2024\Odasu_19.11.2024\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Samsung\OneDrive\Área de Trabalho\20.11.2024-20241120T194248Z-001\20.11.2024\Odasu_19.11.2024\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\Samsung\OneDrive\Área de Trabalho\20.11.2024-20241120T194248Z-001\20.11.2024\Odasu_19.11.2024\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Samsung\OneDrive\Área de Trabalho\20.11.2024-20241120T194248Z-001\20.11.2024\Odasu_19.11.2024\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\Samsung\OneDrive\Área de Trabalho\20.11.2024-20241120T194248Z-001\20.11.2024\Odasu_19.11.2024\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\Samsung\OneDrive\Área de Trabalho\20.11.2024-20241120T194248Z-001\20.11.2024\Odasu_19.11.2024\bin\Debug\MySql.Data.xml
+C:\Users\Samsung\OneDrive\Área de Trabalho\20.11.2024-20241120T194248Z-001\20.11.2024\Odasu_19.11.2024\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Samsung\OneDrive\Área de Trabalho\20.11.2024-20241120T194248Z-001\20.11.2024\Odasu_19.11.2024\bin\Debug\System.Buffers.xml
+C:\Users\Samsung\OneDrive\Área de Trabalho\20.11.2024-20241120T194248Z-001\20.11.2024\Odasu_19.11.2024\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Samsung\OneDrive\Área de Trabalho\20.11.2024-20241120T194248Z-001\20.11.2024\Odasu_19.11.2024\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Samsung\OneDrive\Área de Trabalho\20.11.2024-20241120T194248Z-001\20.11.2024\Odasu_19.11.2024\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Samsung\OneDrive\Área de Trabalho\20.11.2024-20241120T194248Z-001\20.11.2024\Odasu_19.11.2024\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Samsung\OneDrive\Área de Trabalho\20.11.2024-20241120T194248Z-001\20.11.2024\Odasu_19.11.2024\bin\Debug\System.Memory.xml
+C:\Users\Samsung\OneDrive\Área de Trabalho\20.11.2024-20241120T194248Z-001\20.11.2024\Odasu_19.11.2024\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Samsung\OneDrive\Área de Trabalho\20.11.2024-20241120T194248Z-001\20.11.2024\Odasu_19.11.2024\bin\Debug\System.Reflection.Metadata.xml
+C:\Users\Samsung\OneDrive\Área de Trabalho\20.11.2024-20241120T194248Z-001\20.11.2024\Odasu_19.11.2024\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Samsung\OneDrive\Área de Trabalho\20.11.2024-20241120T194248Z-001\20.11.2024\Odasu_19.11.2024\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Samsung\OneDrive\Área de Trabalho\20.11.2024-20241120T194248Z-001\20.11.2024\Odasu_19.11.2024\bin\Debug\System.ValueTuple.xml
+C:\Users\Samsung\OneDrive\Área de Trabalho\20.11.2024-20241120T194248Z-001\20.11.2024\Odasu_19.11.2024\obj\Debug\Odasu_MySQL.csproj.AssemblyReference.cache
+C:\Users\Samsung\OneDrive\Área de Trabalho\20.11.2024-20241120T194248Z-001\20.11.2024\Odasu_19.11.2024\obj\Debug\Odasu_MySQL.Cadastro.resources
+C:\Users\Samsung\OneDrive\Área de Trabalho\20.11.2024-20241120T194248Z-001\20.11.2024\Odasu_19.11.2024\obj\Debug\Odasu_MySQL.Forms.CONFIGURACOES.resources
+C:\Users\Samsung\OneDrive\Área de Trabalho\20.11.2024-20241120T194248Z-001\20.11.2024\Odasu_19.11.2024\obj\Debug\Odasu_MySQL.Forms.CLIENTES.resources
+C:\Users\Samsung\OneDrive\Área de Trabalho\20.11.2024-20241120T194248Z-001\20.11.2024\Odasu_19.11.2024\obj\Debug\Odasu_MySQL.Forms.ESTOQUE.resources
+C:\Users\Samsung\OneDrive\Área de Trabalho\20.11.2024-20241120T194248Z-001\20.11.2024\Odasu_19.11.2024\obj\Debug\Odasu_MySQL.Forms.FATURAMENTO.resources
+C:\Users\Samsung\OneDrive\Área de Trabalho\20.11.2024-20241120T194248Z-001\20.11.2024\Odasu_19.11.2024\obj\Debug\Odasu_MySQL.Forms.PEDIDOS.resources
+C:\Users\Samsung\OneDrive\Área de Trabalho\20.11.2024-20241120T194248Z-001\20.11.2024\Odasu_19.11.2024\obj\Debug\Odasu_MySQL.Login.resources
+C:\Users\Samsung\OneDrive\Área de Trabalho\20.11.2024-20241120T194248Z-001\20.11.2024\Odasu_19.11.2024\obj\Debug\Odasu_MySQL.Principal.resources
+C:\Users\Samsung\OneDrive\Área de Trabalho\20.11.2024-20241120T194248Z-001\20.11.2024\Odasu_19.11.2024\obj\Debug\Odasu_MySQL.Properties.Resources.resources
+C:\Users\Samsung\OneDrive\Área de Trabalho\20.11.2024-20241120T194248Z-001\20.11.2024\Odasu_19.11.2024\obj\Debug\Odasu_MySQL.csproj.GenerateResource.cache
+C:\Users\Samsung\OneDrive\Área de Trabalho\20.11.2024-20241120T194248Z-001\20.11.2024\Odasu_19.11.2024\obj\Debug\Odasu_MySQL.csproj.CoreCompileInputs.cache
+C:\Users\Samsung\OneDrive\Área de Trabalho\20.11.2024-20241120T194248Z-001\20.11.2024\Odasu_19.11.2024\obj\Debug\Odasu_My.AB1C139F.Up2Date
+C:\Users\Samsung\OneDrive\Área de Trabalho\20.11.2024-20241120T194248Z-001\20.11.2024\Odasu_19.11.2024\obj\Debug\Odasu_MySQL.exe
+C:\Users\Samsung\OneDrive\Área de Trabalho\20.11.2024-20241120T194248Z-001\20.11.2024\Odasu_19.11.2024\obj\Debug\Odasu_MySQL.pdb
+C:\Users\jackd\Downloads\Hoje Pesquisa\20.11.2024-20241120T194248Z-001\20.11.2024\Odasu_19.11.2024\bin\Debug\Odasu_MySQL.exe.config
+C:\Users\jackd\Downloads\Hoje Pesquisa\20.11.2024-20241120T194248Z-001\20.11.2024\Odasu_19.11.2024\bin\Debug\Odasu_MySQL.exe
+C:\Users\jackd\Downloads\Hoje Pesquisa\20.11.2024-20241120T194248Z-001\20.11.2024\Odasu_19.11.2024\bin\Debug\Odasu_MySQL.pdb
+C:\Users\jackd\Downloads\Hoje Pesquisa\20.11.2024-20241120T194248Z-001\20.11.2024\Odasu_19.11.2024\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\jackd\Downloads\Hoje Pesquisa\20.11.2024-20241120T194248Z-001\20.11.2024\Odasu_19.11.2024\bin\Debug\Google.Protobuf.dll
+C:\Users\jackd\Downloads\Hoje Pesquisa\20.11.2024-20241120T194248Z-001\20.11.2024\Odasu_19.11.2024\bin\Debug\itext.barcodes.dll
+C:\Users\jackd\Downloads\Hoje Pesquisa\20.11.2024-20241120T194248Z-001\20.11.2024\Odasu_19.11.2024\bin\Debug\itext.bouncy-castle-connector.dll
+C:\Users\jackd\Downloads\Hoje Pesquisa\20.11.2024-20241120T194248Z-001\20.11.2024\Odasu_19.11.2024\bin\Debug\itext.commons.dll
+C:\Users\jackd\Downloads\Hoje Pesquisa\20.11.2024-20241120T194248Z-001\20.11.2024\Odasu_19.11.2024\bin\Debug\itext.forms.dll
+C:\Users\jackd\Downloads\Hoje Pesquisa\20.11.2024-20241120T194248Z-001\20.11.2024\Odasu_19.11.2024\bin\Debug\itext.io.dll
+C:\Users\jackd\Downloads\Hoje Pesquisa\20.11.2024-20241120T194248Z-001\20.11.2024\Odasu_19.11.2024\bin\Debug\itext.kernel.dll
+C:\Users\jackd\Downloads\Hoje Pesquisa\20.11.2024-20241120T194248Z-001\20.11.2024\Odasu_19.11.2024\bin\Debug\itext.layout.dll
+C:\Users\jackd\Downloads\Hoje Pesquisa\20.11.2024-20241120T194248Z-001\20.11.2024\Odasu_19.11.2024\bin\Debug\itext.pdfa.dll
+C:\Users\jackd\Downloads\Hoje Pesquisa\20.11.2024-20241120T194248Z-001\20.11.2024\Odasu_19.11.2024\bin\Debug\itext.pdfua.dll
+C:\Users\jackd\Downloads\Hoje Pesquisa\20.11.2024-20241120T194248Z-001\20.11.2024\Odasu_19.11.2024\bin\Debug\itext.sign.dll
+C:\Users\jackd\Downloads\Hoje Pesquisa\20.11.2024-20241120T194248Z-001\20.11.2024\Odasu_19.11.2024\bin\Debug\itext.styledxmlparser.dll
+C:\Users\jackd\Downloads\Hoje Pesquisa\20.11.2024-20241120T194248Z-001\20.11.2024\Odasu_19.11.2024\bin\Debug\itext.svg.dll
+C:\Users\jackd\Downloads\Hoje Pesquisa\20.11.2024-20241120T194248Z-001\20.11.2024\Odasu_19.11.2024\bin\Debug\itextsharp.dll
+C:\Users\jackd\Downloads\Hoje Pesquisa\20.11.2024-20241120T194248Z-001\20.11.2024\Odasu_19.11.2024\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\jackd\Downloads\Hoje Pesquisa\20.11.2024-20241120T194248Z-001\20.11.2024\Odasu_19.11.2024\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\jackd\Downloads\Hoje Pesquisa\20.11.2024-20241120T194248Z-001\20.11.2024\Odasu_19.11.2024\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\jackd\Downloads\Hoje Pesquisa\20.11.2024-20241120T194248Z-001\20.11.2024\Odasu_19.11.2024\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\jackd\Downloads\Hoje Pesquisa\20.11.2024-20241120T194248Z-001\20.11.2024\Odasu_19.11.2024\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\jackd\Downloads\Hoje Pesquisa\20.11.2024-20241120T194248Z-001\20.11.2024\Odasu_19.11.2024\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\jackd\Downloads\Hoje Pesquisa\20.11.2024-20241120T194248Z-001\20.11.2024\Odasu_19.11.2024\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\jackd\Downloads\Hoje Pesquisa\20.11.2024-20241120T194248Z-001\20.11.2024\Odasu_19.11.2024\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\jackd\Downloads\Hoje Pesquisa\20.11.2024-20241120T194248Z-001\20.11.2024\Odasu_19.11.2024\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\jackd\Downloads\Hoje Pesquisa\20.11.2024-20241120T194248Z-001\20.11.2024\Odasu_19.11.2024\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\jackd\Downloads\Hoje Pesquisa\20.11.2024-20241120T194248Z-001\20.11.2024\Odasu_19.11.2024\bin\Debug\MySql.Data.dll
+C:\Users\jackd\Downloads\Hoje Pesquisa\20.11.2024-20241120T194248Z-001\20.11.2024\Odasu_19.11.2024\bin\Debug\Newtonsoft.Json.dll
+C:\Users\jackd\Downloads\Hoje Pesquisa\20.11.2024-20241120T194248Z-001\20.11.2024\Odasu_19.11.2024\bin\Debug\System.Buffers.dll
+C:\Users\jackd\Downloads\Hoje Pesquisa\20.11.2024-20241120T194248Z-001\20.11.2024\Odasu_19.11.2024\bin\Debug\System.Collections.Immutable.dll
+C:\Users\jackd\Downloads\Hoje Pesquisa\20.11.2024-20241120T194248Z-001\20.11.2024\Odasu_19.11.2024\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\jackd\Downloads\Hoje Pesquisa\20.11.2024-20241120T194248Z-001\20.11.2024\Odasu_19.11.2024\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\jackd\Downloads\Hoje Pesquisa\20.11.2024-20241120T194248Z-001\20.11.2024\Odasu_19.11.2024\bin\Debug\System.IO.Pipelines.dll
+C:\Users\jackd\Downloads\Hoje Pesquisa\20.11.2024-20241120T194248Z-001\20.11.2024\Odasu_19.11.2024\bin\Debug\System.Memory.dll
+C:\Users\jackd\Downloads\Hoje Pesquisa\20.11.2024-20241120T194248Z-001\20.11.2024\Odasu_19.11.2024\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\jackd\Downloads\Hoje Pesquisa\20.11.2024-20241120T194248Z-001\20.11.2024\Odasu_19.11.2024\bin\Debug\System.Reflection.Metadata.dll
+C:\Users\jackd\Downloads\Hoje Pesquisa\20.11.2024-20241120T194248Z-001\20.11.2024\Odasu_19.11.2024\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\jackd\Downloads\Hoje Pesquisa\20.11.2024-20241120T194248Z-001\20.11.2024\Odasu_19.11.2024\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\jackd\Downloads\Hoje Pesquisa\20.11.2024-20241120T194248Z-001\20.11.2024\Odasu_19.11.2024\bin\Debug\System.ValueTuple.dll
+C:\Users\jackd\Downloads\Hoje Pesquisa\20.11.2024-20241120T194248Z-001\20.11.2024\Odasu_19.11.2024\bin\Debug\ZstdSharp.dll
+C:\Users\jackd\Downloads\Hoje Pesquisa\20.11.2024-20241120T194248Z-001\20.11.2024\Odasu_19.11.2024\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\jackd\Downloads\Hoje Pesquisa\20.11.2024-20241120T194248Z-001\20.11.2024\Odasu_19.11.2024\bin\Debug\Google.Protobuf.pdb
+C:\Users\jackd\Downloads\Hoje Pesquisa\20.11.2024-20241120T194248Z-001\20.11.2024\Odasu_19.11.2024\bin\Debug\Google.Protobuf.xml
+C:\Users\jackd\Downloads\Hoje Pesquisa\20.11.2024-20241120T194248Z-001\20.11.2024\Odasu_19.11.2024\bin\Debug\itext.barcodes.xml
+C:\Users\jackd\Downloads\Hoje Pesquisa\20.11.2024-20241120T194248Z-001\20.11.2024\Odasu_19.11.2024\bin\Debug\itext.bouncy-castle-connector.xml
+C:\Users\jackd\Downloads\Hoje Pesquisa\20.11.2024-20241120T194248Z-001\20.11.2024\Odasu_19.11.2024\bin\Debug\itext.commons.xml
+C:\Users\jackd\Downloads\Hoje Pesquisa\20.11.2024-20241120T194248Z-001\20.11.2024\Odasu_19.11.2024\bin\Debug\itext.forms.xml
+C:\Users\jackd\Downloads\Hoje Pesquisa\20.11.2024-20241120T194248Z-001\20.11.2024\Odasu_19.11.2024\bin\Debug\itext.io.xml
+C:\Users\jackd\Downloads\Hoje Pesquisa\20.11.2024-20241120T194248Z-001\20.11.2024\Odasu_19.11.2024\bin\Debug\itext.kernel.xml
+C:\Users\jackd\Downloads\Hoje Pesquisa\20.11.2024-20241120T194248Z-001\20.11.2024\Odasu_19.11.2024\bin\Debug\itext.layout.xml
+C:\Users\jackd\Downloads\Hoje Pesquisa\20.11.2024-20241120T194248Z-001\20.11.2024\Odasu_19.11.2024\bin\Debug\itext.pdfa.xml
+C:\Users\jackd\Downloads\Hoje Pesquisa\20.11.2024-20241120T194248Z-001\20.11.2024\Odasu_19.11.2024\bin\Debug\itext.pdfua.xml
+C:\Users\jackd\Downloads\Hoje Pesquisa\20.11.2024-20241120T194248Z-001\20.11.2024\Odasu_19.11.2024\bin\Debug\itext.sign.xml
+C:\Users\jackd\Downloads\Hoje Pesquisa\20.11.2024-20241120T194248Z-001\20.11.2024\Odasu_19.11.2024\bin\Debug\itext.styledxmlparser.xml
+C:\Users\jackd\Downloads\Hoje Pesquisa\20.11.2024-20241120T194248Z-001\20.11.2024\Odasu_19.11.2024\bin\Debug\itext.svg.xml
+C:\Users\jackd\Downloads\Hoje Pesquisa\20.11.2024-20241120T194248Z-001\20.11.2024\Odasu_19.11.2024\bin\Debug\itextsharp.xml
+C:\Users\jackd\Downloads\Hoje Pesquisa\20.11.2024-20241120T194248Z-001\20.11.2024\Odasu_19.11.2024\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\jackd\Downloads\Hoje Pesquisa\20.11.2024-20241120T194248Z-001\20.11.2024\Odasu_19.11.2024\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\jackd\Downloads\Hoje Pesquisa\20.11.2024-20241120T194248Z-001\20.11.2024\Odasu_19.11.2024\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\jackd\Downloads\Hoje Pesquisa\20.11.2024-20241120T194248Z-001\20.11.2024\Odasu_19.11.2024\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\jackd\Downloads\Hoje Pesquisa\20.11.2024-20241120T194248Z-001\20.11.2024\Odasu_19.11.2024\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\jackd\Downloads\Hoje Pesquisa\20.11.2024-20241120T194248Z-001\20.11.2024\Odasu_19.11.2024\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\jackd\Downloads\Hoje Pesquisa\20.11.2024-20241120T194248Z-001\20.11.2024\Odasu_19.11.2024\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\jackd\Downloads\Hoje Pesquisa\20.11.2024-20241120T194248Z-001\20.11.2024\Odasu_19.11.2024\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\jackd\Downloads\Hoje Pesquisa\20.11.2024-20241120T194248Z-001\20.11.2024\Odasu_19.11.2024\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\jackd\Downloads\Hoje Pesquisa\20.11.2024-20241120T194248Z-001\20.11.2024\Odasu_19.11.2024\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\jackd\Downloads\Hoje Pesquisa\20.11.2024-20241120T194248Z-001\20.11.2024\Odasu_19.11.2024\bin\Debug\MySql.Data.xml
+C:\Users\jackd\Downloads\Hoje Pesquisa\20.11.2024-20241120T194248Z-001\20.11.2024\Odasu_19.11.2024\bin\Debug\Newtonsoft.Json.xml
+C:\Users\jackd\Downloads\Hoje Pesquisa\20.11.2024-20241120T194248Z-001\20.11.2024\Odasu_19.11.2024\bin\Debug\System.Buffers.xml
+C:\Users\jackd\Downloads\Hoje Pesquisa\20.11.2024-20241120T194248Z-001\20.11.2024\Odasu_19.11.2024\bin\Debug\System.Collections.Immutable.xml
+C:\Users\jackd\Downloads\Hoje Pesquisa\20.11.2024-20241120T194248Z-001\20.11.2024\Odasu_19.11.2024\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\jackd\Downloads\Hoje Pesquisa\20.11.2024-20241120T194248Z-001\20.11.2024\Odasu_19.11.2024\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\jackd\Downloads\Hoje Pesquisa\20.11.2024-20241120T194248Z-001\20.11.2024\Odasu_19.11.2024\bin\Debug\System.IO.Pipelines.xml
+C:\Users\jackd\Downloads\Hoje Pesquisa\20.11.2024-20241120T194248Z-001\20.11.2024\Odasu_19.11.2024\bin\Debug\System.Memory.xml
+C:\Users\jackd\Downloads\Hoje Pesquisa\20.11.2024-20241120T194248Z-001\20.11.2024\Odasu_19.11.2024\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\jackd\Downloads\Hoje Pesquisa\20.11.2024-20241120T194248Z-001\20.11.2024\Odasu_19.11.2024\bin\Debug\System.Reflection.Metadata.xml
+C:\Users\jackd\Downloads\Hoje Pesquisa\20.11.2024-20241120T194248Z-001\20.11.2024\Odasu_19.11.2024\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\jackd\Downloads\Hoje Pesquisa\20.11.2024-20241120T194248Z-001\20.11.2024\Odasu_19.11.2024\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\jackd\Downloads\Hoje Pesquisa\20.11.2024-20241120T194248Z-001\20.11.2024\Odasu_19.11.2024\bin\Debug\System.ValueTuple.xml
+C:\Users\jackd\Downloads\Hoje Pesquisa\20.11.2024-20241120T194248Z-001\20.11.2024\Odasu_19.11.2024\obj\Debug\Odasu_MySQL.csproj.AssemblyReference.cache
+C:\Users\jackd\Downloads\Hoje Pesquisa\20.11.2024-20241120T194248Z-001\20.11.2024\Odasu_19.11.2024\obj\Debug\Odasu_MySQL.Cadastro.resources
+C:\Users\jackd\Downloads\Hoje Pesquisa\20.11.2024-20241120T194248Z-001\20.11.2024\Odasu_19.11.2024\obj\Debug\Odasu_MySQL.Forms.CONFIGURACOES.resources
+C:\Users\jackd\Downloads\Hoje Pesquisa\20.11.2024-20241120T194248Z-001\20.11.2024\Odasu_19.11.2024\obj\Debug\Odasu_MySQL.Forms.CLIENTES.resources
+C:\Users\jackd\Downloads\Hoje Pesquisa\20.11.2024-20241120T194248Z-001\20.11.2024\Odasu_19.11.2024\obj\Debug\Odasu_MySQL.Forms.ESTOQUE.resources
+C:\Users\jackd\Downloads\Hoje Pesquisa\20.11.2024-20241120T194248Z-001\20.11.2024\Odasu_19.11.2024\obj\Debug\Odasu_MySQL.Forms.FATURAMENTO.resources
+C:\Users\jackd\Downloads\Hoje Pesquisa\20.11.2024-20241120T194248Z-001\20.11.2024\Odasu_19.11.2024\obj\Debug\Odasu_MySQL.Forms.PEDIDOS.resources
+C:\Users\jackd\Downloads\Hoje Pesquisa\20.11.2024-20241120T194248Z-001\20.11.2024\Odasu_19.11.2024\obj\Debug\Odasu_MySQL.Login.resources
+C:\Users\jackd\Downloads\Hoje Pesquisa\20.11.2024-20241120T194248Z-001\20.11.2024\Odasu_19.11.2024\obj\Debug\Odasu_MySQL.Principal.resources
+C:\Users\jackd\Downloads\Hoje Pesquisa\20.11.2024-20241120T194248Z-001\20.11.2024\Odasu_19.11.2024\obj\Debug\Odasu_MySQL.Properties.Resources.resources
+C:\Users\jackd\Downloads\Hoje Pesquisa\20.11.2024-20241120T194248Z-001\20.11.2024\Odasu_19.11.2024\obj\Debug\Odasu_MySQL.csproj.GenerateResource.cache
+C:\Users\jackd\Downloads\Hoje Pesquisa\20.11.2024-20241120T194248Z-001\20.11.2024\Odasu_19.11.2024\obj\Debug\Odasu_MySQL.csproj.CoreCompileInputs.cache
+C:\Users\jackd\Downloads\Hoje Pesquisa\20.11.2024-20241120T194248Z-001\20.11.2024\Odasu_19.11.2024\obj\Debug\Odasu_My.AB1C139F.Up2Date
+C:\Users\jackd\Downloads\Hoje Pesquisa\20.11.2024-20241120T194248Z-001\20.11.2024\Odasu_19.11.2024\obj\Debug\Odasu_MySQL.exe
+C:\Users\jackd\Downloads\Hoje Pesquisa\20.11.2024-20241120T194248Z-001\20.11.2024\Odasu_19.11.2024\obj\Debug\Odasu_MySQL.pdb
+C:\Users\jemer\Desktop\Odasu\bin\Debug\Odasu_MySQL.exe.config
+C:\Users\jemer\Desktop\Odasu\bin\Debug\Odasu_MySQL.exe
+C:\Users\jemer\Desktop\Odasu\bin\Debug\Odasu_MySQL.pdb
+C:\Users\jemer\Desktop\Odasu\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\jemer\Desktop\Odasu\bin\Debug\Google.Protobuf.dll
+C:\Users\jemer\Desktop\Odasu\bin\Debug\itext.barcodes.dll
+C:\Users\jemer\Desktop\Odasu\bin\Debug\itext.bouncy-castle-connector.dll
+C:\Users\jemer\Desktop\Odasu\bin\Debug\itext.commons.dll
+C:\Users\jemer\Desktop\Odasu\bin\Debug\itext.forms.dll
+C:\Users\jemer\Desktop\Odasu\bin\Debug\itext.io.dll
+C:\Users\jemer\Desktop\Odasu\bin\Debug\itext.kernel.dll
+C:\Users\jemer\Desktop\Odasu\bin\Debug\itext.layout.dll
+C:\Users\jemer\Desktop\Odasu\bin\Debug\itext.pdfa.dll
+C:\Users\jemer\Desktop\Odasu\bin\Debug\itext.pdfua.dll
+C:\Users\jemer\Desktop\Odasu\bin\Debug\itext.sign.dll
+C:\Users\jemer\Desktop\Odasu\bin\Debug\itext.styledxmlparser.dll
+C:\Users\jemer\Desktop\Odasu\bin\Debug\itext.svg.dll
+C:\Users\jemer\Desktop\Odasu\bin\Debug\itextsharp.dll
+C:\Users\jemer\Desktop\Odasu\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\jemer\Desktop\Odasu\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\jemer\Desktop\Odasu\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\jemer\Desktop\Odasu\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\jemer\Desktop\Odasu\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\jemer\Desktop\Odasu\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\jemer\Desktop\Odasu\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\jemer\Desktop\Odasu\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\jemer\Desktop\Odasu\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\jemer\Desktop\Odasu\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\jemer\Desktop\Odasu\bin\Debug\MySql.Data.dll
+C:\Users\jemer\Desktop\Odasu\bin\Debug\Newtonsoft.Json.dll
+C:\Users\jemer\Desktop\Odasu\bin\Debug\System.Buffers.dll
+C:\Users\jemer\Desktop\Odasu\bin\Debug\System.Collections.Immutable.dll
+C:\Users\jemer\Desktop\Odasu\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\jemer\Desktop\Odasu\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\jemer\Desktop\Odasu\bin\Debug\System.IO.Pipelines.dll
+C:\Users\jemer\Desktop\Odasu\bin\Debug\System.Memory.dll
+C:\Users\jemer\Desktop\Odasu\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\jemer\Desktop\Odasu\bin\Debug\System.Reflection.Metadata.dll
+C:\Users\jemer\Desktop\Odasu\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\jemer\Desktop\Odasu\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\jemer\Desktop\Odasu\bin\Debug\System.ValueTuple.dll
+C:\Users\jemer\Desktop\Odasu\bin\Debug\ZstdSharp.dll
+C:\Users\jemer\Desktop\Odasu\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\jemer\Desktop\Odasu\bin\Debug\Google.Protobuf.pdb
+C:\Users\jemer\Desktop\Odasu\bin\Debug\Google.Protobuf.xml
+C:\Users\jemer\Desktop\Odasu\bin\Debug\itext.barcodes.xml
+C:\Users\jemer\Desktop\Odasu\bin\Debug\itext.bouncy-castle-connector.xml
+C:\Users\jemer\Desktop\Odasu\bin\Debug\itext.commons.xml
+C:\Users\jemer\Desktop\Odasu\bin\Debug\itext.forms.xml
+C:\Users\jemer\Desktop\Odasu\bin\Debug\itext.io.xml
+C:\Users\jemer\Desktop\Odasu\bin\Debug\itext.kernel.xml
+C:\Users\jemer\Desktop\Odasu\bin\Debug\itext.layout.xml
+C:\Users\jemer\Desktop\Odasu\bin\Debug\itext.pdfa.xml
+C:\Users\jemer\Desktop\Odasu\bin\Debug\itext.pdfua.xml
+C:\Users\jemer\Desktop\Odasu\bin\Debug\itext.sign.xml
+C:\Users\jemer\Desktop\Odasu\bin\Debug\itext.styledxmlparser.xml
+C:\Users\jemer\Desktop\Odasu\bin\Debug\itext.svg.xml
+C:\Users\jemer\Desktop\Odasu\bin\Debug\itextsharp.xml
+C:\Users\jemer\Desktop\Odasu\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\jemer\Desktop\Odasu\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\jemer\Desktop\Odasu\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\jemer\Desktop\Odasu\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\jemer\Desktop\Odasu\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\jemer\Desktop\Odasu\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\jemer\Desktop\Odasu\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\jemer\Desktop\Odasu\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\jemer\Desktop\Odasu\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\jemer\Desktop\Odasu\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\jemer\Desktop\Odasu\bin\Debug\MySql.Data.xml
+C:\Users\jemer\Desktop\Odasu\bin\Debug\Newtonsoft.Json.xml
+C:\Users\jemer\Desktop\Odasu\bin\Debug\System.Buffers.xml
+C:\Users\jemer\Desktop\Odasu\bin\Debug\System.Collections.Immutable.xml
+C:\Users\jemer\Desktop\Odasu\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\jemer\Desktop\Odasu\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\jemer\Desktop\Odasu\bin\Debug\System.IO.Pipelines.xml
+C:\Users\jemer\Desktop\Odasu\bin\Debug\System.Memory.xml
+C:\Users\jemer\Desktop\Odasu\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\jemer\Desktop\Odasu\bin\Debug\System.Reflection.Metadata.xml
+C:\Users\jemer\Desktop\Odasu\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\jemer\Desktop\Odasu\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\jemer\Desktop\Odasu\bin\Debug\System.ValueTuple.xml
+C:\Users\jemer\Desktop\Odasu\obj\Debug\Odasu_MySQL.csproj.AssemblyReference.cache
+C:\Users\jemer\Desktop\Odasu\obj\Debug\Odasu_MySQL.Cadastro.resources
+C:\Users\jemer\Desktop\Odasu\obj\Debug\Odasu_MySQL.Forms.CONFIGURACOES.resources
+C:\Users\jemer\Desktop\Odasu\obj\Debug\Odasu_MySQL.Forms.CLIENTES.resources
+C:\Users\jemer\Desktop\Odasu\obj\Debug\Odasu_MySQL.Forms.ESTOQUE.resources
+C:\Users\jemer\Desktop\Odasu\obj\Debug\Odasu_MySQL.Forms.FATURAMENTO.resources
+C:\Users\jemer\Desktop\Odasu\obj\Debug\Odasu_MySQL.Forms.PEDIDOS.resources
+C:\Users\jemer\Desktop\Odasu\obj\Debug\Odasu_MySQL.Login.resources
+C:\Users\jemer\Desktop\Odasu\obj\Debug\Odasu_MySQL.Principal.resources
+C:\Users\jemer\Desktop\Odasu\obj\Debug\Odasu_MySQL.Properties.Resources.resources
+C:\Users\jemer\Desktop\Odasu\obj\Debug\Odasu_MySQL.csproj.GenerateResource.cache
+C:\Users\jemer\Desktop\Odasu\obj\Debug\Odasu_MySQL.csproj.CoreCompileInputs.cache
+C:\Users\jemer\Desktop\Odasu\obj\Debug\Odasu_My.AB1C139F.Up2Date
+C:\Users\jemer\Desktop\Odasu\obj\Debug\Odasu_MySQL.exe
+C:\Users\jemer\Desktop\Odasu\obj\Debug\Odasu_MySQL.pdb

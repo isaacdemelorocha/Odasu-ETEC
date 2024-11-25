@@ -1,0 +1,323 @@
+* {
+   box-sizing: border-box;
+}
+
+body {
+   margin: 0;
+   font-family: Arial, sans-serif;
+}
+
+.header-container {
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+   padding: 10px;
+   background-color: #f8f8f8;
+}
+
+.logo {
+   max-width: 100px; /* Limitar a largura do logo */
+}
+
+.pesquisa {
+   flex-grow: 1; /* Para ocupar o espaço restante */
+   display: flex;
+   justify-content: center;
+}
+
+.search-box {
+   display: flex;
+}
+
+.search-box input {
+   padding: 5px;
+   border: 1px solid #fff;
+}
+
+.search-box button {
+   padding: 5px;
+   border: none;
+   background-color: #007bff;
+   color: white;
+   cursor: pointer;
+}
+
+.action-buttons {
+   display: flex;
+   align-items: center;
+}
+
+.action-buttons div {
+   margin-left: 15px; /* Espaçamento entre botões */
+}
+
+@media (max-width: 768px) {
+   .header-container {
+       flex-direction: column; /* Empilha os itens em telas menores */
+       align-items: flex-start;
+   }
+
+   .pesquisa {
+       width: 100%; /* Para a barra de pesquisa ocupar toda a largura */
+       margin: 10px 0; /* Espaçamento vertical */
+   }
+
+   .action-buttons {
+       width: 100%; /* Botões ocupando a largura total */
+       justify-content: space-between; /* Distribuição entre os botões */
+   }
+}
+
+
+a{
+   text-decoration: none;
+}
+
+a.hover{
+color:black;
+}
+
+a:visited{
+color:white;
+}
+
+/* header */
+.logo {
+   width: 180px;
+   margin: 20px;
+}
+
+.header-container {
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+   padding: 10px;
+}
+
+/* serach */
+.pesquisa {
+   display: flex;
+   justify-content: center;
+   margin-bottom: 10px;
+   margin-right: 10px;
+}
+
+.search-box {
+   display: flex;
+   align-items: center;
+   border: 2px solid #ccc;
+   border-radius: 25px;
+   padding: 5px 10px;
+}
+
+.search-box input[type="text"] {
+   border: none;
+   outline: none;
+   padding: 10px;
+   border-radius: 25px;
+}
+
+.search-box button,
+.btn,
+.btn1 {
+   background-color: #4CAF50;
+   color: white;
+   border: none;
+   padding: 10px 20px;
+   border-radius: 25px;
+   cursor: pointer;
+}
+
+
+.search-box button:hover {
+   background-color: greenyellow;
+   text-decoration: none;
+   color: black;
+}
+
+/* botões login/carrinho */
+.action-buttons {
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
+
+.entrar,
+.carrinho {
+   display: flex;
+   align-items: center;
+   /* Alinha verticalmente o ícone e o botão */
+   margin-right: 30px;
+}
+
+.userIco,
+.carrinhoIco {
+   margin-right: 15px;
+   /* Espaço entre o ícone e o botão */
+   height: 33px;
+   align-items: center;
+   margin-bottom: auto;
+}
+
+.btn,
+.btn1 {
+   border-radius: 8%;
+   background-color: #4CAF50;
+   padding: 10px;
+   margin-bottom: 20px;
+   text-decoration: none;
+   /* Remove o sublinhado dos links */
+   color: white;
+}
+
+.btn:hover,
+.btn1:hover {
+   background-color: greenyellow;
+   color: black;
+}
+
+
+/* Slider */
+section.slider {
+   position: relative;
+   width: 80%;
+   max-width: 5000px;
+
+   /* Defina uma altura fixa */
+   margin: 0 auto;
+   overflow: hidden;
+}
+
+.slider-content {
+   display: flex;
+   width: 400%;
+   /* 4 slides, então 400% */
+   transition: transform 0.5s ease-in-out;
+}
+
+.slider-content input {
+   display: none;
+}
+
+.slide-box {
+   width: 25%;
+   /* Cada slide tem 25% do total (porque são 4 slides) */
+   transition: 0.5s;
+}
+
+.slide-box img {
+   width: 100%;
+   height: 100%;
+}
+
+.nav-manual {
+   position: absolute;
+   bottom: 20px;
+   display: flex;
+   justify-content: center;
+   width: 100%;
+}
+
+.manual-btn {
+   border: 2px solid #fff;
+   padding: 5px;
+   border-radius: 50%;
+   cursor: pointer;
+   margin: 0 10px;
+   transition: background-color #fff 0.3s ease;
+}
+
+.manual-btn:hover {
+   background-color: #ff0054;
+}
+
+#radio1:checked~.s1 {
+   margin-left: 0%;
+}
+
+#radio2:checked~.s1 {
+   margin-left: -25%;
+}
+
+#radio3:checked~.s1 {
+   margin-left: -50%;
+}
+
+#radio4:checked~.s1 {
+   margin-left: -75%;
+}
+
+/* footer */
+.footer-container {
+   display: flex;
+   justify-content: space-around;
+   align-items: flex-start;
+}
+
+footer {
+   /* Footer */
+   background-color: #333;
+   color: #fff;
+   padding: 40px 0;
+}
+
+.footer-info {
+   max-width: 400px;
+}
+
+.direitos {
+   text-align: center;
+   padding-top: 20px;
+   border-top: 1px solid #fff;
+}
+
+
+
+/* PRODUTOS  */
+.produtos {
+   max-width: 1200px;
+   margin: 20px auto;
+   padding: 20px;
+}
+
+h2 {
+   text-align: center;
+   margin-bottom: 20px;
+}
+
+.produtos-container {
+   display: flex;
+   flex-wrap: wrap;
+   justify-content: space-between;
+}
+
+.produto {
+   background: #f9f9f9;
+   border: 1px solid #ddd;
+   border-radius: 8px;
+   padding: 15px;
+   margin: 10px;
+   text-align: center;
+   flex: 1 1 calc(20% - 20px); /* 5 produtos em linha com espaço */
+   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.produto img {
+   max-width: 60%;
+   border-radius: 5px;
+}
+
+h3 {
+   font-size: 1.2em;
+   margin: 10px 0;
+}
+
+p {
+   font-size: 1em;
+   color: #333;
+}
+
+p.direitos{
+   color: white;
+}
+

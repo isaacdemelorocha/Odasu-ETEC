@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Adicionar Produto</title>
+    <link rel="stylesheet" href="styles_adicionar-produto.css">
+    <link rel="icon" href="img/icon.ico" />
+    <style>
+             * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #000; /* Fundo preto */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    font-family: Arial, sans-serif;
+}
+    </style>
+</head>
+   
+        <a href="index.html" >
+        <img class="logo" src="img/logo1.png" alt="Logo da Empresa" />
+        </a>
+
+<body>
+    <div class="container">
+        <h1>Adicionar Produto</h1>
+        <form>
+            <div class="form-group">
+                <label for="nome-produto">Nome do Produto:</label>
+                <input type="text" id="nome-produto" name="nome-produto" required>
+            </div>
+            <div class="form-group">
+                <label for="categoria">Categoria:</label>
+                <select id="categoria" name="categoria" required>
+                    <option value="" disabled selected>Selecione uma categoria</option>
+                    <option value="categoria1">Categoria 1</option>
+                    <option value="categoria2">Categoria 2</option>
+                    <option value="categoria3">Categoria 3</option>
+                </select>
+            </div>
+            <div class="form-group">
+                <label for="valor">Valor:</label>
+                <input type="number" id="valor" name="valor" step="0.01" required>
+            </div>
+            <div class="form-group">
+                <label for="descricao">Descrição:</label>
+                <textarea id="descricao" name="descricao" rows="4" required></textarea>
+            </div>
+            <div class="form-group">
+                <label>Upload de Fotos:</label>
+                <small>Selecione 4 fotos.</small>
+                <input type="file" name="foto" accept="image/*" multiple required>
+                <input type="file" name="foto" accept="image/*" multiple required>
+                <input type="file" name="foto" accept="image/*" multiple required>
+                <input type="file" name="foto" accept="image/*" multiple required>
+             
+            </div>
+            <button type="submit" class="finalize-button">Adicionar Produto</button>
+        </form>
+    </div>
+</body>
+</html>

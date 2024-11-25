@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Odasu_MySQL", "Odasu_MySQL.csproj", "{2490A03C-245A-4520-B1CD-91C9747D3899}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2490A03C-245A-4520-B1CD-91C9747D3899}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2490A03C-245A-4520-B1CD-91C9747D3899}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2490A03C-245A-4520-B1CD-91C9747D3899}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2490A03C-245A-4520-B1CD-91C9747D3899}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {36650E86-4CD1-4BEA-ADA6-3068D69B2BCD}
+	EndGlobalSection
+EndGlobal

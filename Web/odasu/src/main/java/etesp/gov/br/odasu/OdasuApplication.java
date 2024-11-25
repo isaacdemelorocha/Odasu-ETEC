@@ -1,0 +1,13 @@
+package etesp.gov.br.odasu;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class OdasuApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(OdasuApplication.class, args);
+	}
+
+}

@@ -1,0 +1,194 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="../static/css/style.css" />
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+    <link rel="icon" href="../static/img/icon.ico" />
+    <script src="../static/js/script.js" defer></script>
+    <title>ODASU</title>
+</head>
+
+<body>
+    <header>
+        <div class="header-container">
+            <!-- Logo -->
+            <div class="logoEmpresa">
+                <a href="index.html">
+                    <img class="logo img-fluid" src="../static/img/logo1.png" alt="Logo da Empresa" />
+                </a>
+            </div>
+
+            <!-- Pesquisa -->
+            <div class="pesquisa" style="margin-left: 150px;">
+                <form class="search-box">
+                    <input type="text" name="nomePRD" placeholder="Digite o nome do produto">
+                    <button type="submit">Buscar</button>
+                </form>
+            </div>
+
+            <div class="action-buttons"></div>
+            <!-- Botões do header -->
+            <div class="entrar">
+                <img class="userIco" src="../static/img/User.png" alt="Usuario">
+                <a class="btn btn-success" href="Login.html">Entrar</a>
+            </div>
+
+
+            <div class="carrinho">
+                <img class="carrinhoIco" src="../static/img/carrinho.png" alt="Carrinho">
+                <a class="btn btn-success" href="Login.html">Anunciar</a>
+            </div>
+        </div>
+    </header>
+    </br>
+    <style>
+        .video {
+            text-align: center;
+            /* Centraliza conteúdo inline */
+        }
+
+        video {
+            margin: 0 auto;
+            /* Centraliza a video */
+            display: block;
+            /* Necessário para o margin auto funcionar */
+        }
+
+        .causas{
+            height: 150px;
+            width: 330px;
+            box-shadow: 5px 5px 20px #dfdddd;
+            border-top-left-radius: 10px;
+            border-bottom-right-radius: 10px;
+            margin-bottom: 5%;
+        }
+    </style>
+
+    <div class="video">
+        <video src="../static/img/video-abertura.mp4" width="80%" autoplay loop muted></video>
+    </div>
+
+    </br>
+    <section class="slider">
+        <div class="slider-content">
+            <input type="radio" name="btn-radio" id="radio1" checked>
+            <input type="radio" name="btn-radio" id="radio2">
+            <input type="radio" name="btn-radio" id="radio3">
+            <input type="radio" name="btn-radio" id="radio4">
+
+            <div class="slide-box s1">
+                <img src="../static/img/Slide1.JPG" alt="Slider1">
+            </div>
+            <div class="slide-box">
+                <img src="../static/img/Slide2.JPG" alt="Slider2">
+            </div>
+            <div class="slide-box">
+                <img src="../static/img/Slide3.JPG" alt="Slider3">
+            </div>
+            <div class="slide-box">
+                <img src="../static/img/Slide4.JPG" alt="Slider4">
+            </div>
+        </div>
+    </section>
+    </br>
+
+    <!-- categorias  -->
+    <section class="produtos">
+        <h2>Categorias </h2>
+        <div class="produtos-container">
+            <div class="produto">
+                <a href="#" class="bot">
+                    <img src="../static/img/cat1.jpg" alt="Categoria 1">
+                </a>
+                <h5>Mais Procurados</h5>
+            </div>
+
+            <div class="produto">
+                <a href="#" class="bot">
+                    <img src="../static/img/cat2.jpg" alt="Categoria 2">
+                </a>
+                <h5>Moda Feminina</h5>
+            </div>
+
+            <div class="produto">
+                <a href="#" class="bot">
+                    <img src="../static/img/cat3.jpg" alt="Categoria 3">
+                </a>
+                <h5>Moda Masculina</h5>
+            </div>
+
+            <div class="produto">
+                <a href="#" class="bot">
+                    <img src="../static/img/cat4.jpg" alt="Categoria 4">
+                </a>
+                <h5>Salão </h5>
+
+            </div>
+
+            <div class="produto">
+                <a href="#" class="bot">
+                    <img src="../static/img/cat5.jpg" alt="Categoria 5">
+                    <a href="#" class="bot"></a>
+                    <h5>Decoração </h5>
+
+            </div>
+        </div>
+    </section>
+
+    <!-- produtos #1 -->
+    <section class="produtos">
+        <h2>Produtos</h2>
+        <div class="produtos-container" id="produtos-container"></div>
+    </section>
+
+    <section class="text-center">
+        <p style="font-size: 20pt; margin-left: 5%;">Nossas Causas</p>
+        <hr class="mx-auto d-block" style="width: 65%; color: green;">
+
+        <div class="d-flex mx-auto justify-content-center align-items-center">
+            <div class="mx-2 d-block causas">
+                <img class="img-fluid" width="100px" height="100px" src="../static/img/img1.png">
+                <p class="px-4" style="font-size: large; font-weight: 400;">Não à violência contra as mulheres</p>
+            </div>
+
+            <div class="mx-2 d-block causas">
+                <img class="img-fluid" width="100px" height="100px" src="../static/img/img3.png">
+                <p class="px-4" style="font-size: large; font-weight: 400;">Atenção ao câncer de mama</p>
+            </div>
+
+            <div class="mx-2 d-block causas">
+                <img class="img-fluid" width="100px" height="100px" src="../static/img/meioambiente.png">
+                <p class="px-3" style="font-size: large; font-weight: 400;">Preservação do meio ambiente</p>
+            </div>
+        </div>
+    </section>
+
+    <footer>
+        <div class="footer-container">
+            <div class="footer-info">
+                <h2>Entre em Contato</h2>
+               
+                <form class="letra" action="mailto:suporte@odasu.com" method="post" enctype="text/plain">
+                    <input type="text" id="nome" name="nome" placeholder="Nome" style="width: 95%;" required>
+                    </br>
+                    <input type="email" id="email" name="email" placeholder="E-mail" style="width: 95%;" required>
+                    </br>
+                    <textarea id="mensagem" rows="4" cols="30" name="mensagem" placeholder="Digite sua mensagem" required></textarea>
+                    </br>
+                    <button class="btn btn-success" type="submit">Enviar</button>
+                </form>
+            </div>
+        </div>
+        <div>
+            <p class="direitos">&copy; 2024 ODASU Todos os direitos reservados.</p>
+        </div>
+    </footer>
+
+
+</body>
+
+</html>
