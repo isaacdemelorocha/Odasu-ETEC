@@ -5,7 +5,7 @@
   <br><br>
 </div>
 
-<p>Projeto desenvolvido para aplicarmos nosso aprendizado no decorrer de 1 ano e 6 meses de curso, resolvemos criar um E-commerce focado em salão de beleza onde o usuario poderia comprar ou vender produtos,</p>
+<p>Este projeto foi desenvolvido como parte do nosso curso de 1 ano e 6 meses, durante o qual aprendemos programação do zero. Em nosso TCC (Trabalho de conclusão de curso), decidimos criar um E-commerce especializado em salão de beleza, onde os usuários podem comprar e vender produtos de beleza de forma prática e acessível. O objetivo foi aplicar e consolidar todo o aprendizado adquirido ao longo do curso.</p>
 
 ## Funcionalidades ##
 | Mobile | Web | Desktop |
