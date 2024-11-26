@@ -57,7 +57,7 @@
 - [Jackson Martins](https://github.com/JacksonMartinsConde)
 - [Jermeson Ferreira](https://github.com/jermesonf)
 - [Nayara](#)
-- [Paulo Vitor](#)
+- [Paulo Vitor](https://github.com/Junho2018)
 - [Victor Harger](https://github.com/Victor-Harger)
 - [Victor Marubio](#)
 - [Vinicius Novaes](https://github.com/euvnovaes)
