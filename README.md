@@ -2,7 +2,7 @@
   <h1>Projeto ODASU<h1>
   <h4>ETEC São Paulo</h4>
   <a href="https://youtu.be/Y1kuDOcuFKw" target="_blank">Jornada Mobile, Web e Desktop</a>
-  <a href="https://youtu.be/RDKeY_u-fus" target="_blank">Vídeo Demonstração</a>
+  <p><a href="https://youtu.be/RDKeY_u-fus" target="_blank">Vídeo Demonstração</a></p>
   <br><br>
 </div>
 
